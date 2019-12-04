@@ -2,6 +2,8 @@
 
 ## Dr. Mark Roantree
 
+### Project: Group 49, Kevin Cleary, James O'Neill
+
 **Resources**
 - _Data Mining: Concepts and Techniques_ -  Han and Kamber, Morgan Kaufmann (Edition 3)
   - Chapter 2 = all Workshops. Ch 3-7 covers exam material.
@@ -66,12 +68,16 @@
 
 Report and Dataset based on Workshops. Generate your own dataset (using web scrape) or use an online dataset. Can use Classification, Clustering or Association Rule Mining.
 
+- BCA for getting rid of attributes.. make sure to keep important ones, but too many attributes is detrimental.
+- GROUP 49 for project reference.
+- Workshop presentation submissions close at 11p.m on Monday night.
+
 ### Report Structure
 
 - Slide 1: Idea and dataset description
-- Slide 2: Data Preparation (from your orkshop presentation)
+- Slide 2: Data Preparation (from your Workshop presentation)
 - Slide 3: Algorithm description
-- SLide 4: Results and Analysis (insights) about what you found
+- Slide 4: Results and Analysis (insights) about what you found
 
 Method: 25%, Dataset Prep: 25%, Experiments, Eval, Analysis: 50%
   

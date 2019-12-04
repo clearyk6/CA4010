@@ -1,0 +1,1849 @@
+country, year, suicide_no, population, suicide/100K pop, suicide_rate_trend
+Albania, 1987, 73.0, 2709600.0, 31.85, N/A, N/A
+Albania, 1988, 63.0, 2764300.0, 32.46, Increase, 0.61
+Albania, 1989, 68.0, 2803100.0, 33.40, Increase, 0.94
+Albania, 1992, 47.0, 2822500.0, 18.00, Decrease, -15.40
+Albania, 1993, 73.0, 2807300.0, 32.56, Increase, 14.56
+Albania, 1994, 50.0, 2849300.0, 32.18, Decrease, -0.38
+Albania, 1995, 88.0, 2903400.0, 40.55, Increase, 8.37
+Albania, 1996, 89.0, 2940200.0, 43.62, Increase, 3.07
+Albania, 1997, 170.0, 2977300.0, 77.43, Increase, 33.81
+Albania, 1998, 154.0, 3012700.0, 66.52, Decrease, -10.91
+Albania, 1999, 139.0, 3029700.0, 69.81, Increase, 3.29
+Albania, 2000, 54.0, 2796300.0, 30.70, Decrease, -39.11
+Albania, 2001, 119.0, 2799349.0, 50.62, Increase, 19.92
+Albania, 2002, 133.0, 2818839.0, 62.51, Increase, 11.89
+Albania, 2003, 124.0, 2843929.0, 58.60, Decrease, -3.91
+Albania, 2004, 146.0, 2874991.0, 65.39, Increase, 6.79
+Albania, 2005, 0.0, 2783320.0, 0.00, Decrease, -65.39
+Albania, 2006, 0.0, 2780176.0, 0.00, Remain, 0.00
+Albania, 2007, 124.0, 2770344.0, 65.85, Increase, 65.85
+Albania, 2008, 160.0, 2757059.0, 71.05, Increase, 5.20
+Albania, 2009, 0.0, 2745735.0, 0.00, Decrease, -71.05
+Albania, 2010, 96.0, 2736025.0, 41.66, Increase, 41.66
+Antigua and Barbuda, 1985, 0.0, 62574.0, 0.00, N/A, N/A
+Antigua and Barbuda, 1986, 0.0, 61270.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 1987, 0.0, 60261.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 1988, 0.0, 59564.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 1989, 0.0, 59238.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 1990, 1.0, 59334.0, 17.24, Increase, 17.24
+Antigua and Barbuda, 1991, 0.0, 60394.0, 0.00, Decrease, -17.24
+Antigua and Barbuda, 1992, 0.0, 61741.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 1993, 1.0, 63315.0, 15.00, Increase, 15.00
+Antigua and Barbuda, 1994, 0.0, 65044.0, 0.00, Decrease, -15.00
+Antigua and Barbuda, 1995, 0.0, 66846.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 1998, 0.0, 72225.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 1999, 0.0, 73832.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 2000, 2.0, 75326.0, 39.97, Increase, 39.97
+Antigua and Barbuda, 2001, 2.0, 76497.0, 19.45, Decrease, -20.52
+Antigua and Barbuda, 2002, 0.0, 77588.0, 0.00, Decrease, -19.45
+Antigua and Barbuda, 2003, 1.0, 78658.0, 27.82, Increase, 27.82
+Antigua and Barbuda, 2004, 2.0, 79722.0, 36.06, Increase, 8.24
+Antigua and Barbuda, 2005, 0.0, 80809.0, 0.00, Decrease, -36.06
+Antigua and Barbuda, 2006, 0.0, 81973.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 2007, 1.0, 83131.0, 7.98, Increase, 7.98
+Antigua and Barbuda, 2008, 0.0, 84273.0, 0.00, Decrease, -7.98
+Antigua and Barbuda, 2009, 0.0, 85405.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 2012, 0.0, 88703.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 2013, 0.0, 89779.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 2014, 0.0, 90837.0, 0.00, Remain, 0.00
+Antigua and Barbuda, 2015, 1.0, 91889.0, 15.62, Increase, 15.62
+Argentina, 1985, 1988.0, 2.70908E7, 134.47, N/A, N/A
+Argentina, 1986, 2284.0, 2.72444E7, 152.90, Increase, 18.43
+Argentina, 1987, 2286.0, 2.75994E7, 144.98, Decrease, -7.92
+Argentina, 1988, 2354.0, 2.8308E7, 146.24, Increase, 1.26
+Argentina, 1989, 2247.0, 2.8702E7, 138.93, Decrease, -7.31
+Argentina, 1990, 2140.0, 2.90911E7, 134.90, Decrease, -4.03
+Argentina, 1991, 1951.0, 2.9623E7, 119.24, Decrease, -15.66
+Argentina, 1992, 2184.0, 3.00454E7, 126.86, Increase, 7.62
+Argentina, 1993, 2230.0, 3.04775E7, 134.77, Increase, 7.91
+Argentina, 1994, 2241.0, 3.09112E7, 122.05, Decrease, -12.72
+Argentina, 1995, 2204.0, 3.13454E7, 119.97, Decrease, -2.08
+Argentina, 1996, 2229.0, 3.17807E7, 118.03, Decrease, -1.94
+Argentina, 1997, 2184.0, 3.233378E7, 111.40, Decrease, -6.63
+Argentina, 1998, 2347.0, 3.2757256E7, 116.93, Increase, 5.53
+Argentina, 1999, 2423.0, 3.317486E7, 117.19, Increase, 0.26
+Argentina, 2000, 2774.0, 3.3585532E7, 131.39, Increase, 14.20
+Argentina, 2001, 3132.0, 3.4010944E7, 143.56, Increase, 12.17
+Argentina, 2002, 3162.0, 3.4407508E7, 139.42, Decrease, -4.14
+Argentina, 2003, 3289.0, 3.4785904E7, 146.29, Increase, 6.87
+Argentina, 2004, 3121.0, 3.5162944E7, 131.06, Decrease, -15.23
+Argentina, 2005, 3058.0, 3.5550616E7, 128.18, Decrease, -2.88
+Argentina, 2006, 3108.0, 3.5918888E7, 128.22, Increase, 0.04
+Argentina, 2007, 2946.0, 3.6315492E7, 118.35, Decrease, -9.87
+Argentina, 2008, 3059.0, 3.673352E7, 118.11, Decrease, -0.24
+Argentina, 2009, 2884.0, 3.7158008E7, 107.32, Decrease, -10.79
+Argentina, 2010, 2943.0, 3.7578456E7, 111.24, Increase, 3.92
+Argentina, 2011, 2912.0, 3.8015736E7, 105.87, Decrease, -5.37
+Argentina, 2012, 3248.0, 3.8441776E7, 119.82, Increase, 13.95
+Argentina, 2013, 2987.0, 3.8859128E7, 103.42, Decrease, -16.40
+Argentina, 2014, 3231.0, 3.927656E7, 111.35, Increase, 7.93
+Argentina, 2015, 3073.0, 3.9699628E7, 112.13, Increase, 0.78
+Armenia, 1990, 93.0, 2983700.0, 41.12, N/A, N/A
+Armenia, 1991, 80.0, 3230800.0, 45.87, Increase, 4.75
+Armenia, 1992, 83.0, 3308700.0, 40.86, Decrease, -5.01
+Armenia, 1993, 106.0, 3366600.0, 51.05, Increase, 10.19
+Armenia, 1994, 112.0, 3402500.0, 66.73, Increase, 15.68
+Armenia, 1995, 130.0, 3443200.0, 51.79, Decrease, -14.94
+Armenia, 1996, 87.0, 3486300.0, 37.05, Decrease, -14.74
+Armenia, 1997, 77.0, 3526700.0, 32.23, Decrease, -4.82
+Armenia, 1998, 66.0, 3558000.0, 27.42, Decrease, -4.81
+Armenia, 1999, 67.0, 3580700.0, 24.68, Decrease, -2.74
+Armenia, 2000, 61.0, 3606500.0, 34.30, Increase, 9.62
+Armenia, 2001, 60.0, 3610516.0, 29.78, Decrease, -4.52
+Armenia, 2002, 74.0, 3014844.0, 38.07, Increase, 8.29
+Armenia, 2003, 59.0, 3024366.0, 33.43, Decrease, -4.64
+Armenia, 2006, 78.0, 2764396.0, 43.67, Increase, 10.24
+Armenia, 2007, 71.0, 2735313.0, 39.02, Decrease, -4.65
+Armenia, 2008, 63.0, 3045391.0, 35.15, Decrease, -3.87
+Armenia, 2009, 53.0, 2689695.0, 33.70, Decrease, -1.45
+Armenia, 2010, 73.0, 2676225.0, 40.41, Increase, 6.71
+Armenia, 2011, 67.0, 2670366.0, 32.98, Decrease, -7.43
+Armenia, 2012, 79.0, 2814300.0, 36.57, Increase, 3.59
+Armenia, 2013, 67.0, 2810664.0, 37.48, Increase, 0.91
+Armenia, 2014, 58.0, 2803029.0, 37.01, Decrease, -0.47
+Armenia, 2015, 74.0, 2795335.0, 45.28, Increase, 8.27
+Aruba, 1995, 67.0, 2412102.0, 40.56, N/A, N/A
+Aruba, 1999, 8.0, 75219.0, 308.51, Increase, 267.95
+Aruba, 2000, 9.0, 82312.0, 115.47, Decrease, -193.04
+Aruba, 2001, 10.0, 84247.0, 305.33, Increase, 189.86
+Aruba, 2002, 4.0, 86381.0, 27.28, Decrease, -278.05
+Aruba, 2003, 9.0, 88556.0, 126.46, Increase, 99.18
+Aruba, 2004, 2.0, 90602.0, 12.93, Decrease, -113.53
+Aruba, 2005, 8.0, 92319.0, 176.72, Increase, 163.79
+Aruba, 2006, 10.0, 93629.0, 99.58, Decrease, -77.14
+Aruba, 2007, 9.0, 94354.0, 96.31, Decrease, -3.27
+Aruba, 2008, 8.0, 94631.0, 92.19, Decrease, -4.12
+Aruba, 2009, 4.0, 94667.0, 41.44, Decrease, -50.75
+Aruba, 2010, 4.0, 94759.0, 42.23, Increase, 0.79
+Aruba, 2011, 7.0, 94832.0, 58.65, Increase, 16.42
+Australia, 1985, 17.0, 2603100.0, 94.05, N/A, N/A
+Australia, 1986, 1872.0, 1.45315E7, 164.27, Increase, 70.22
+Australia, 1987, 2032.0, 1.4785E7, 174.85, Increase, 10.58
+Australia, 1988, 2164.0, 1.5045E7, 188.82, Increase, 13.97
+Australia, 1989, 2174.0, 1.53285E7, 179.48, Decrease, -9.34
+Australia, 1990, 2062.0, 1.55863E7, 167.79, Decrease, -11.69
+Australia, 1991, 2207.0, 1.5824E7, 172.75, Increase, 4.96
+Australia, 1992, 2284.0, 1.60269E7, 179.83, Increase, 7.08
+Australia, 1993, 2252.0, 1.62146E7, 170.71, Decrease, -9.12
+Australia, 1994, 2035.0, 1.63836E7, 154.72, Decrease, -15.99
+Australia, 1995, 2283.0, 1.65839E7, 167.74, Increase, 13.02
+Australia, 1996, 2181.0, 1.67928E7, 156.04, Decrease, -11.70
+Australia, 1997, 2425.0, 1.7031032E7, 175.26, Increase, 19.22
+Australia, 1998, 2640.0, 1.7237404E7, 186.45, Increase, 11.19
+Australia, 1999, 2640.0, 1.7442112E7, 177.01, Decrease, -9.44
+Australia, 2000, 2481.0, 1.766208E7, 166.62, Decrease, -10.39
+Australia, 2001, 2390.0, 1.7892154E7, 157.75, Decrease, -8.87
+Australia, 2002, 2458.0, 1.81393E7, 158.79, Increase, 1.04
+Australia, 2003, 2325.0, 1.8373722E7, 145.12, Decrease, -13.67
+Australia, 2004, 2150.0, 1.8623046E7, 133.39, Decrease, -11.73
+Australia, 2006, 2114.0, 1.885918E7, 133.76, Increase, 0.37
+Australia, 2007, 2121.0, 1.9118246E7, 128.18, Decrease, -5.58
+Australia, 2008, 2228.0, 1.974114E7, 130.17, Increase, 1.99
+Australia, 2009, 2333.0, 2.0131214E7, 129.92, Decrease, -0.25
+Australia, 2010, 2345.0, 2.053532E7, 130.69, Increase, 0.77
+Australia, 2011, 2425.0, 2.0853864E7, 133.01, Increase, 2.32
+Australia, 2012, 2392.0, 2.0917594E7, 133.21, Increase, 0.20
+Australia, 2013, 2586.0, 2.1281414E7, 139.94, Increase, 6.73
+Australia, 2014, 2607.0, 2.1641008E7, 138.72, Decrease, -1.22
+Australia, 2015, 2884.0, 2.1968736E7, 148.57, Increase, 9.85
+Austria, 1985, 3021.0, 2.0234058E7, 154.92, N/A, N/A
+Austria, 1986, 2089.0, 7093351.0, 384.40, Increase, 229.48
+Austria, 1987, 2137.0, 7108804.0, 401.39, Increase, 16.99
+Austria, 1988, 2069.0, 7125232.0, 405.90, Increase, 4.51
+Austria, 1989, 1853.0, 7143783.0, 358.05, Decrease, -47.85
+Austria, 1990, 1895.0, 7180241.0, 358.69, Increase, 0.64
+Austria, 1991, 1824.0, 7239950.0, 353.53, Decrease, -5.16
+Austria, 1992, 1773.0, 7313903.0, 356.32, Increase, 2.79
+Austria, 1993, 1763.0, 7387661.0, 342.59, Decrease, -13.73
+Austria, 1994, 1705.0, 7440893.0, 348.18, Increase, 5.59
+Austria, 1995, 1773.0, 7465754.0, 342.92, Decrease, -5.26
+Austria, 1996, 1784.0, 7477951.0, 347.27, Increase, 4.35
+Austria, 1997, 1778.0, 7493207.0, 342.45, Decrease, -4.82
+Austria, 1998, 1597.0, 7512760.0, 298.54, Decrease, -43.91
+Austria, 1999, 1554.0, 7534998.0, 288.34, Decrease, -10.20
+Austria, 2000, 1560.0, 7560921.0, 281.37, Decrease, -6.97
+Austria, 2001, 1582.0, 7590845.0, 288.50, Increase, 7.13
+Austria, 2002, 1491.0, 7633824.0, 262.32, Decrease, -26.18
+Austria, 2003, 1552.0, 7676997.0, 276.70, Increase, 14.38
+Austria, 2004, 1455.0, 7714100.0, 256.86, Decrease, -19.84
+Austria, 2005, 1424.0, 7763170.0, 254.48, Decrease, -2.38
+Austria, 2006, 1396.0, 7812962.0, 234.61, Decrease, -19.87
+Austria, 2007, 1298.0, 7852254.0, 219.12, Decrease, -15.49
+Austria, 2008, 1287.0, 7881737.0, 217.79, Decrease, -1.33
+Austria, 2009, 1271.0, 7910370.0, 217.41, Decrease, -0.38
+Austria, 2010, 1273.0, 7935488.0, 212.04, Decrease, -5.37
+Austria, 2011, 1265.0, 7957556.0, 207.80, Decrease, -4.24
+Austria, 2012, 1288.0, 7984957.0, 211.50, Increase, 3.70
+Austria, 2013, 1276.0, 8026295.0, 206.66, Decrease, -4.84
+Austria, 2014, 1289.0, 8078071.0, 211.61, Increase, 4.95
+Austria, 2015, 1314.0, 8144650.0, 209.83, Decrease, -1.78
+Austria, 2016, 1329.0, 8410844.0, 209.67, Decrease, -0.16
+Azerbaijan, 1990, 1142.0, 9273932.0, 170.77, N/A, N/A
+Azerbaijan, 1991, 124.0, 6199400.0, 26.09, Decrease, -144.68
+Azerbaijan, 1992, 134.0, 6302100.0, 32.28, Increase, 6.19
+Azerbaijan, 1993, 143.0, 6377800.0, 34.63, Increase, 2.35
+Azerbaijan, 1994, 95.0, 6458300.0, 27.99, Decrease, -6.64
+Azerbaijan, 1995, 50.0, 6544600.0, 12.47, Decrease, -15.52
+Azerbaijan, 1996, 52.0, 6626200.0, 14.75, Increase, 2.28
+Azerbaijan, 1997, 70.0, 6687100.0, 18.00, Increase, 3.25
+Azerbaijan, 1998, 100.0, 6864000.0, 17.43, Decrease, -0.57
+Azerbaijan, 1999, 58.0, 7071400.0, 10.98, Decrease, -6.45
+Azerbaijan, 2000, 62.0, 7265850.0, 9.57, Decrease, -1.41
+Azerbaijan, 2001, 141.0, 7433800.0, 24.07, Increase, 14.50
+Azerbaijan, 2002, 236.0, 7519700.0, 49.96, Increase, 25.89
+Azerbaijan, 2003, 112.0, 7586250.0, 21.83, Decrease, -28.13
+Azerbaijan, 2004, 116.0, 7647150.0, 25.47, Increase, 3.64
+Azerbaijan, 2007, 99.0, 7622700.0, 17.27, Decrease, -8.20
+Bahamas, 1985, 43.0, 4877450.0, 10.37, N/A, N/A
+Bahamas, 1987, 1.0, 212100.0, 4.76, Decrease, -5.61
+Bahamas, 1993, 4.0, 224600.0, 17.32, Increase, 12.56
+Bahamas, 1994, 6.0, 244300.0, 33.78, Increase, 16.46
+Bahamas, 1995, 3.0, 249800.0, 10.60, Decrease, -23.18
+Bahamas, 1996, 2.0, 253303.0, 7.16, Decrease, -3.44
+Bahamas, 1997, 3.0, 252173.0, 9.82, Increase, 2.66
+Bahamas, 1998, 2.0, 256128.0, 7.15, Decrease, -2.67
+Bahamas, 1999, 4.0, 260751.0, 15.01, Increase, 7.86
+Bahamas, 2000, 6.0, 265790.0, 22.92, Increase, 7.91
+Bahamas, 2001, 10.0, 271489.0, 36.78, Increase, 13.86
+Bahamas, 2002, 3.0, 277512.0, 10.06, Decrease, -26.72
+Bahamas, 2003, 1.0, 283265.0, 2.59, Decrease, -7.47
+Bahamas, 2004, 2.0, 288984.0, 6.02, Increase, 3.43
+Bahamas, 2005, 2.0, 295100.0, 5.89, Decrease, -0.13
+Bahamas, 2006, 4.0, 303496.0, 13.22, Increase, 7.33
+Bahamas, 2007, 2.0, 309900.0, 5.56, Decrease, -7.66
+Bahamas, 2008, 6.0, 315840.0, 16.83, Increase, 11.27
+Bahamas, 2009, 4.0, 321650.0, 12.13, Decrease, -4.70
+Bahamas, 2010, 7.0, 327410.0, 19.04, Increase, 6.91
+Bahamas, 2011, 8.0, 333382.0, 51.99, Increase, 32.95
+Bahamas, 2012, 5.0, 338249.0, 16.01, Decrease, -35.98
+Bahamas, 2013, 3.0, 343582.0, 5.73, Decrease, -10.28
+Bahrain, 1985, 5.0, 402344.0, 13.91, N/A, N/A
+Bahrain, 1987, 12.0, 368700.0, 22.71, Increase, 8.80
+Bahrain, 1988, 9.0, 364500.0, 25.36, Increase, 2.65
+Bahrain, 1997, 13.0, 429163.0, 22.53, Decrease, -2.83
+Bahrain, 1998, 0.0, 536076.0, 0.00, Decrease, -22.53
+Bahrain, 1999, 3.0, 553396.0, 5.46, Increase, 5.46
+Bahrain, 2000, 16.0, 574768.0, 20.38, Increase, 14.92
+Bahrain, 2001, 31.0, 606364.0, 35.60, Increase, 15.22
+Bahrain, 2002, 23.0, 638185.0, 30.50, Decrease, -5.10
+Bahrain, 2003, 24.0, 673982.0, 25.20, Decrease, -5.30
+Bahrain, 2004, 34.0, 715455.0, 32.63, Increase, 7.43
+Bahrain, 2005, 45.0, 740518.0, 58.45, Increase, 25.82
+Bahrain, 2006, 40.0, 834390.0, 37.64, Decrease, -20.81
+Bahrain, 2007, 30.0, 904444.0, 28.41, Decrease, -9.23
+Bahrain, 2008, 37.0, 975471.0, 29.28, Increase, 0.87
+Bahrain, 2009, 46.0, 1039224.0, 30.40, Increase, 1.12
+Bahrain, 2010, 31.0, 1098045.0, 19.39, Decrease, -11.01
+Bahrain, 2011, 23.0, 1132609.0, 16.21, Decrease, -3.18
+Bahrain, 2012, 14.0, 1127007.0, 10.30, Decrease, -5.91
+Bahrain, 2013, 19.0, 1201806.0, 8.69, Decrease, -1.61
+Bahrain, 2014, 8.0, 1203509.0, 5.55, Decrease, -3.14
+Barbados, 1985, 5.0, 965414.0, 2.55, N/A, N/A
+Barbados, 1986, 9.0, 231600.0, 69.35, Increase, 66.80
+Barbados, 1987, 7.0, 232400.0, 33.22, Decrease, -36.13
+Barbados, 1988, 7.0, 233900.0, 32.92, Decrease, -0.30
+Barbados, 1989, 15.0, 226200.0, 70.14, Increase, 37.22
+Barbados, 1990, 12.0, 236000.0, 57.25, Decrease, -12.89
+Barbados, 1991, 18.0, 234000.0, 129.73, Increase, 72.48
+Barbados, 1992, 14.0, 236000.0, 64.43, Decrease, -65.30
+Barbados, 1993, 19.0, 239100.0, 84.90, Increase, 20.47
+Barbados, 1994, 13.0, 238500.0, 78.67, Decrease, -6.23
+Barbados, 1995, 15.0, 239200.0, 71.50, Decrease, -7.17
+Barbados, 2000, 15.0, 235429.0, 63.75, Decrease, -7.75
+Barbados, 2001, 9.0, 250710.0, 32.14, Decrease, -31.61
+Barbados, 2002, 2.0, 251938.0, 8.65, Decrease, -23.49
+Barbados, 2003, 0.0, 252858.0, 0.00, Decrease, -8.65
+Barbados, 2004, 0.0, 253597.0, 0.00, Remain, 0.00
+Barbados, 2005, 3.0, 254402.0, 7.79, Increase, 7.79
+Barbados, 2006, 1.0, 255290.0, 2.58, Decrease, -5.21
+Barbados, 2007, 9.0, 256343.0, 45.38, Increase, 42.80
+Barbados, 2008, 0.0, 257634.0, 0.00, Decrease, -45.38
+Barbados, 2009, 1.0, 259071.0, 2.31, Increase, 2.31
+Barbados, 2010, 5.0, 260492.0, 28.80, Increase, 26.49
+Barbados, 2011, 3.0, 261649.0, 7.62, Decrease, -21.18
+Barbados, 2012, 0.0, 262935.0, 0.00, Decrease, -7.62
+Barbados, 2013, 0.0, 264008.0, 0.00, Remain, 0.00
+Belarus, 1990, 167.0, 3152935.0, 23.58, N/A, N/A
+Belarus, 1991, 2107.0, 9436200.0, 277.50, Increase, 253.92
+Belarus, 1992, 2211.0, 9518300.0, 302.88, Increase, 25.38
+Belarus, 1993, 2427.0, 9614900.0, 314.33, Increase, 11.45
+Belarus, 1994, 2913.0, 9651800.0, 368.89, Increase, 54.56
+Belarus, 1995, 3149.0, 9668700.0, 402.68, Increase, 33.79
+Belarus, 1996, 3228.0, 9672500.0, 407.00, Increase, 4.32
+Belarus, 1997, 3651.0, 9671400.0, 458.68, Increase, 51.68
+Belarus, 1998, 3562.0, 9672800.0, 450.59, Decrease, -8.09
+Belarus, 1999, 3575.0, 9602100.0, 457.97, Increase, 7.38
+Belarus, 2000, 3403.0, 9530150.0, 450.41, Decrease, -7.56
+Belarus, 2001, 3483.0, 9500617.0, 446.48, Decrease, -3.93
+Belarus, 2002, 3288.0, 9462334.0, 417.48, Decrease, -29.00
+Belarus, 2003, 3283.0, 9414301.0, 409.39, Decrease, -8.09
+Belarus, 2007, 3421.0, 9172418.0, 441.93, Increase, 32.54
+Belarus, 2008, 2619.0, 9167055.0, 351.49, Decrease, -90.44
+Belarus, 2009, 2715.0, 9125539.0, 361.61, Increase, 10.12
+Belarus, 2010, 2701.0, 9059236.0, 371.72, Increase, 10.11
+Belarus, 2011, 2406.0, 8916648.0, 326.29, Decrease, -45.43
+Belarus, 2013, 2116.0, 8840171.0, 293.41, Decrease, -32.88
+Belarus, 2014, 1877.0, 8867483.0, 270.51, Decrease, -22.90
+Belgium, 1985, 1745.0, 9624440.0, 246.82, N/A, N/A
+Belgium, 1986, 2288.0, 9212800.0, 333.19, Increase, 86.37
+Belgium, 1987, 2207.0, 9274400.0, 315.60, Decrease, -17.59
+Belgium, 1988, 2221.0, 9262400.0, 325.70, Increase, 10.10
+Belgium, 1989, 2005.0, 9280900.0, 285.39, Decrease, -40.31
+Belgium, 1990, 1909.0, 9310000.0, 283.80, Decrease, -1.59
+Belgium, 1991, 1875.0, 9338700.0, 274.68, Decrease, -9.12
+Belgium, 1992, 1825.0, 9373300.0, 267.30, Decrease, -7.38
+Belgium, 1993, 1906.0, 9411100.0, 270.36, Increase, 3.06
+Belgium, 1994, 2152.0, 9448600.0, 302.29, Increase, 31.93
+Belgium, 1995, 2139.0, 9483200.0, 302.08, Decrease, -0.21
+Belgium, 1996, 2142.0, 9515045.0, 284.15, Decrease, -17.93
+Belgium, 1997, 1996.0, 9552998.0, 265.03, Decrease, -19.12
+Belgium, 1998, 2156.0, 9565894.0, 286.65, Increase, 21.62
+Belgium, 1999, 1995.0, 9617204.0, 261.06, Decrease, -25.59
+Belgium, 2000, 1889.0, 9646562.0, 235.89, Decrease, -25.17
+Belgium, 2001, 2125.0, 9676043.0, 264.93, Increase, 29.04
+Belgium, 2002, 2137.0, 9714983.0, 256.66, Decrease, -8.27
+Belgium, 2003, 2112.0, 9761850.0, 253.52, Decrease, -3.14
+Belgium, 2004, 2080.0, 9804353.0, 246.88, Decrease, -6.64
+Belgium, 2005, 1951.0, 9849733.0, 225.25, Decrease, -21.63
+Belgium, 2006, 2021.0, 9904591.0, 230.42, Increase, 5.17
+Belgium, 2007, 1938.0, 9966230.0, 215.20, Decrease, -15.22
+Belgium, 2008, 1892.0, 1.0037275E7, 213.84, Decrease, -1.36
+Belgium, 2009, 1976.0, 1.0111997E7, 217.88, Increase, 4.04
+Belgium, 2010, 2020.0, 1.0179726E7, 219.35, Increase, 1.47
+Belgium, 2011, 2029.0, 1.0251218E7, 222.14, Increase, 2.79
+Belgium, 2012, 2067.0, 1.0374806E7, 223.46, Increase, 1.32
+Belgium, 2013, 2015.0, 1.0453E7, 215.54, Decrease, -7.92
+Belgium, 2014, 1888.0, 1.0531013E7, 200.57, Decrease, -14.97
+Belgium, 2015, 1901.0, 1.0584241E7, 202.22, Increase, 1.65
+Belize, 1986, 1751.0, 8102359.0, 190.07, N/A, N/A
+Belize, 1987, 2.0, 158495.0, 13.53, Decrease, -176.54
+Belize, 1989, 4.0, 147715.0, 31.30, Increase, 17.77
+Belize, 1990, 1.0, 158047.0, 4.98, Decrease, -26.32
+Belize, 1991, 2.0, 159600.0, 24.72, Increase, 19.74
+Belize, 1993, 2.0, 166000.0, 23.93, Decrease, -0.79
+Belize, 1994, 1.0, 166591.0, 6.49, Decrease, -17.44
+Belize, 1995, 13.0, 179283.0, 186.04, Increase, 179.55
+Belize, 1996, 12.0, 177353.0, 136.71, Decrease, -49.33
+Belize, 1997, 5.0, 184438.0, 47.24, Decrease, -89.47
+Belize, 1998, 3.0, 191289.0, 14.19, Decrease, -33.05
+Belize, 1999, 19.0, 198631.0, 109.00, Increase, 94.81
+Belize, 2000, 14.0, 205995.0, 67.91, Decrease, -41.09
+Belize, 2001, 19.0, 213345.0, 164.04, Increase, 96.13
+Belize, 2002, 17.0, 220385.0, 142.96, Decrease, -21.08
+Belize, 2003, 14.0, 227212.0, 69.20, Decrease, -73.76
+Belize, 2004, 15.0, 233972.0, 69.93, Increase, 0.73
+Belize, 2005, 18.0, 240897.0, 109.18, Increase, 39.25
+Belize, 2006, 13.0, 247780.0, 48.49, Decrease, -60.69
+Belize, 2007, 9.0, 255433.0, 31.52, Decrease, -16.97
+Belize, 2008, 6.0, 263151.0, 72.36, Increase, 40.84
+Belize, 2009, 17.0, 270863.0, 105.13, Increase, 32.77
+Belize, 2010, 9.0, 278482.0, 38.67, Decrease, -66.46
+Belize, 2011, 26.0, 286549.0, 94.08, Increase, 55.41
+Belize, 2012, 23.0, 293827.0, 123.20, Increase, 29.12
+Belize, 2013, 20.0, 300639.0, 78.90, Decrease, -44.30
+Belize, 2014, 18.0, 307263.0, 58.52, Decrease, -20.38
+Belize, 2015, 24.0, 313980.0, 90.48, Increase, 31.96
+Bosnia and Herzegovina, 2011, 20.0, 1236409.0, 119.68, N/A, N/A
+Bosnia and Herzegovina, 2014, 14.0, 3586079.0, 4.74, Decrease, -114.94
+Brazil, 1985, 1321.0, 6.1575992E7, 113.37, N/A, N/A
+Brazil, 1986, 4289.0, 1.17763008E8, 59.85, Decrease, -53.52
+Brazil, 1987, 4264.0, 1.209978E8, 56.71, Decrease, -3.14
+Brazil, 1988, 4605.0, 1.237562E8, 69.57, Increase, 12.86
+Brazil, 1989, 4508.0, 1.2660796E8, 65.59, Decrease, -3.98
+Brazil, 1990, 4518.0, 1.29434248E8, 64.31, Decrease, -1.28
+Brazil, 1991, 4852.0, 1.3227356E8, 67.28, Increase, 2.97
+Brazil, 1992, 5180.0, 1.35040608E8, 68.37, Increase, 1.09
+Brazil, 1993, 5366.0, 1.3766128E8, 65.84, Decrease, -2.53
+Brazil, 1994, 5629.0, 1.4020888E8, 68.49, Increase, 2.65
+Brazil, 1995, 5947.0, 1.42762976E8, 71.68, Increase, 3.19
+Brazil, 1996, 6662.0, 1.45311216E8, 75.81, Increase, 4.13
+Brazil, 1997, 6604.0, 1.47869264E8, 72.58, Decrease, -3.23
+Brazil, 1998, 6904.0, 1.50422464E8, 76.71, Increase, 4.13
+Brazil, 1999, 6843.0, 1.5295736E8, 74.42, Decrease, -2.29
+Brazil, 2000, 6503.0, 1.55471536E8, 67.51, Decrease, -6.91
+Brazil, 2001, 7062.0, 1.57941216E8, 69.83, Increase, 2.32
+Brazil, 2002, 7691.0, 1.60402784E8, 73.31, Increase, 3.48
+Brazil, 2003, 7727.0, 1.62949904E8, 69.88, Decrease, -3.43
+Brazil, 2004, 7847.0, 1.65498944E8, 68.07, Decrease, -1.81
+Brazil, 2005, 7968.0, 1.67963456E8, 70.07, Increase, 2.00
+Brazil, 2006, 8576.0, 1.70382208E8, 73.87, Increase, 3.80
+Brazil, 2007, 8577.0, 1.72694816E8, 69.71, Decrease, -4.16
+Brazil, 2008, 8968.0, 1.74872592E8, 72.37, Increase, 2.66
+Brazil, 2009, 9034.0, 1.7697872E8, 71.43, Decrease, -0.94
+Brazil, 2010, 9379.0, 1.79062896E8, 70.59, Decrease, -0.84
+Brazil, 2011, 9527.0, 1.8113032E8, 73.33, Increase, 2.74
+Brazil, 2012, 9780.0, 1.83128384E8, 72.19, Decrease, -1.14
+Brazil, 2013, 10280.0, 1.8504512E8, 74.38, Increase, 2.19
+Brazil, 2014, 10587.0, 1.86899808E8, 73.89, Decrease, -0.49
+Brazil, 2015, 10677.0, 1.88718448E8, 73.42, Decrease, -0.47
+Bulgaria, 1985, 9363.0, 1.27463104E8, 86.47, N/A, N/A
+Bulgaria, 1986, 1452.0, 8392600.0, 302.48, Increase, 216.01
+Bulgaria, 1987, 1429.0, 8441000.0, 278.28, Decrease, -24.20
+Bulgaria, 1988, 1495.0, 8372700.0, 308.75, Increase, 30.47
+Bulgaria, 1989, 1440.0, 8388500.0, 290.40, Decrease, -18.35
+Bulgaria, 1990, 1463.0, 8407200.0, 292.27, Increase, 1.87
+Bulgaria, 1991, 1312.0, 8425700.0, 254.47, Decrease, -37.80
+Bulgaria, 1992, 1400.0, 8273500.0, 272.49, Increase, 18.02
+Bulgaria, 1993, 1526.0, 8016700.0, 311.76, Increase, 39.27
+Bulgaria, 1994, 1453.0, 7982500.0, 275.67, Decrease, -36.09
+Bulgaria, 1995, 1461.0, 7972500.0, 287.97, Increase, 12.30
+Bulgaria, 1996, 1443.0, 7957700.0, 279.59, Decrease, -8.38
+Bulgaria, 1997, 1526.0, 7934800.0, 296.42, Increase, 16.83
+Bulgaria, 1998, 1470.0, 7901300.0, 277.15, Decrease, -19.27
+Bulgaria, 1999, 1468.0, 7854500.0, 299.05, Increase, 21.90
+Bulgaria, 2000, 1282.0, 7810980.0, 246.70, Decrease, -52.35
+Bulgaria, 2001, 1400.0, 7695060.0, 263.30, Increase, 16.60
+Bulgaria, 2002, 1301.0, 7535867.0, 242.63, Decrease, -20.67
+Bulgaria, 2003, 1308.0, 7487523.0, 246.14, Increase, 3.51
+Bulgaria, 2004, 1078.0, 7441575.0, 205.04, Decrease, -41.10
+Bulgaria, 2005, 1018.0, 7401044.0, 185.18, Decrease, -19.86
+Bulgaria, 2006, 977.0, 7360160.0, 177.07, Decrease, -8.11
+Bulgaria, 2007, 970.0, 7315472.0, 185.62, Increase, 8.55
+Bulgaria, 2008, 909.0, 7270754.0, 175.12, Decrease, -10.50
+Bulgaria, 2009, 918.0, 7226786.0, 166.32, Decrease, -8.80
+Bulgaria, 2010, 873.0, 7180394.0, 155.82, Decrease, -10.50
+Bulgaria, 2011, 864.0, 7102194.0, 160.01, Increase, 4.19
+Bulgaria, 2012, 774.0, 6999299.0, 136.76, Decrease, -23.25
+Bulgaria, 2013, 852.0, 6928394.0, 159.84, Increase, 23.08
+Bulgaria, 2014, 721.0, 6891672.0, 134.60, Decrease, -25.24
+Cabo Verde, 2011, 693.0, 5718968.0, 144.80, N/A, N/A
+Canada, 1985, 696.0, 8188095.0, 148.24, N/A, N/A
+Canada, 1986, 3299.0, 2.32967E7, 169.93, Increase, 21.69
+Canada, 1987, 3628.0, 2.34399E7, 188.63, Increase, 18.70
+Canada, 1988, 3602.0, 2.37262E7, 180.50, Decrease, -8.13
+Canada, 1989, 3481.0, 2.40185E7, 174.63, Decrease, -5.87
+Canada, 1990, 3455.0, 2.43405E7, 169.59, Decrease, -5.04
+Canada, 1991, 3414.0, 2.4782E7, 167.15, Decrease, -2.44
+Canada, 1992, 3606.0, 2.56839E7, 166.94, Decrease, -0.21
+Canada, 1993, 3677.0, 2.6508E7, 161.89, Decrease, -5.05
+Canada, 1994, 3837.0, 2.69637E7, 165.76, Increase, 3.87
+Canada, 1995, 3734.0, 2.72892E7, 161.18, Decrease, -4.58
+Canada, 1996, 3944.0, 2.76428E7, 162.22, Increase, 1.04
+Canada, 1997, 3924.0, 2.77787E7, 161.82, Decrease, -0.40
+Canada, 1998, 3684.0, 2.8130182E7, 151.42, Decrease, -10.40
+Canada, 1999, 3681.0, 2.8423304E7, 148.92, Decrease, -2.50
+Canada, 2000, 4072.0, 2.8723276E7, 158.20, Increase, 9.28
+Canada, 2001, 3548.0, 2.907145E7, 135.86, Decrease, -22.34
+Canada, 2002, 3691.0, 2.9312068E7, 137.05, Increase, 1.19
+Canada, 2003, 3672.0, 2.9659592E7, 138.51, Increase, 1.46
+Canada, 2004, 3724.0, 2.9964304E7, 135.21, Decrease, -3.30
+Canada, 2005, 3658.0, 3.0273976E7, 133.66, Decrease, -1.55
+Canada, 2006, 3638.0, 3.0614412E7, 128.73, Decrease, -4.93
+Canada, 2007, 3572.0, 3.0901448E7, 128.87, Increase, 0.14
+Canada, 2008, 3591.0, 3.12305E7, 126.33, Decrease, -2.54
+Canada, 2009, 3721.0, 3.1568124E7, 128.21, Increase, 1.88
+Canada, 2010, 3904.0, 3.1909102E7, 131.28, Increase, 3.07
+Canada, 2011, 3963.0, 3.2286618E7, 133.23, Increase, 1.95
+Canada, 2012, 3750.0, 3.262692E7, 125.94, Decrease, -7.29
+Canada, 2013, 3847.0, 3.2983524E7, 124.52, Decrease, -1.42
+Chile, 1985, 3751.0, 2.9840896E7, 126.17, N/A, N/A
+Chile, 1986, 669.0, 1.06738E7, 107.62, Decrease, -18.55
+Chile, 1987, 659.0, 1.1056E7, 91.00, Decrease, -16.62
+Chile, 1988, 693.0, 1.11645E7, 89.76, Decrease, -1.24
+Chile, 1989, 715.0, 1.1329E7, 96.33, Increase, 6.57
+Chile, 1990, 715.0, 1.1497E7, 99.63, Increase, 3.30
+Chile, 1991, 762.0, 1.17088E7, 93.53, Decrease, -6.10
+Chile, 1992, 731.0, 1.19252E7, 94.30, Increase, 0.77
+Chile, 1993, 682.0, 1.21447E7, 80.84, Decrease, -13.46
+Chile, 1994, 743.0, 1.23495E7, 103.46, Increase, 22.62
+Chile, 1995, 837.0, 1.2616038E7, 98.03, Decrease, -5.43
+Chile, 1996, 944.0, 1.2936561E7, 110.03, Increase, 12.00
+Chile, 1997, 912.0, 1.3158402E7, 95.29, Decrease, -14.74
+Chile, 1998, 902.0, 1.3367732E7, 99.42, Increase, 4.13
+Chile, 1999, 1010.0, 1.356895E7, 108.03, Increase, 8.61
+Chile, 2000, 1144.0, 1.3768211E7, 119.69, Increase, 11.66
+Chile, 2001, 1530.0, 1.3970327E7, 153.26, Increase, 33.57
+Chile, 2002, 1600.0, 1.4164151E7, 145.28, Decrease, -7.98
+Chile, 2003, 1604.0, 1.4354021E7, 148.99, Increase, 3.71
+Chile, 2004, 1717.0, 1.4539078E7, 157.83, Increase, 8.84
+Chile, 2005, 1728.0, 1.4718626E7, 154.89, Decrease, -2.94
+Chile, 2006, 1671.0, 1.4900219E7, 146.34, Decrease, -8.55
+Chile, 2007, 1859.0, 1.5071441E7, 159.39, Increase, 13.05
+Chile, 2008, 1898.0, 1.5237934E7, 154.31, Decrease, -5.08
+Chile, 2009, 2076.0, 1.540045E7, 166.87, Increase, 12.56
+Chile, 2010, 2123.0, 1.5561121E7, 172.52, Increase, 5.65
+Chile, 2011, 1973.0, 1.572612E7, 160.92, Decrease, -11.60
+Chile, 2012, 1941.0, 1.5880872E7, 154.87, Decrease, -6.05
+Chile, 2013, 1826.0, 1.6042172E7, 147.55, Decrease, -7.32
+Chile, 2014, 1751.0, 1.6207131E7, 135.62, Decrease, -11.93
+Chile, 2015, 1782.0, 1.6369754E7, 137.12, Increase, 1.50
+Colombia, 1985, 1923.0, 2.445128E7, 137.56, N/A, N/A
+Colombia, 1986, 1007.0, 2.53322E7, 62.48, Decrease, -75.08
+Colombia, 1987, 1001.0, 2.6893192E7, 50.36, Decrease, -12.12
+Colombia, 1988, 858.0, 2.817588E7, 42.48, Decrease, -7.88
+Colombia, 1989, 855.0, 2.8804084E7, 49.00, Increase, 6.52
+Colombia, 1990, 871.0, 2.9433664E7, 42.80, Decrease, -6.20
+Colombia, 1991, 944.0, 3.0064698E7, 45.56, Increase, 2.76
+Colombia, 1992, 1016.0, 2.9671896E7, 44.42, Decrease, -1.14
+Colombia, 1993, 1076.0, 2.97129E7, 49.18, Increase, 4.76
+Colombia, 1994, 1146.0, 3.03591E7, 51.00, Increase, 1.82
+Colombia, 1995, 1140.0, 3.2012902E7, 53.37, Increase, 2.37
+Colombia, 1996, 1186.0, 3.3219376E7, 50.41, Decrease, -2.96
+Colombia, 1997, 1229.0, 3.3860972E7, 53.52, Increase, 3.11
+Colombia, 1998, 1611.0, 3.4510608E7, 62.05, Increase, 8.53
+Colombia, 1999, 2042.0, 3.5147504E7, 81.04, Increase, 18.99
+Colombia, 2000, 2301.0, 3.5759344E7, 87.72, Increase, 6.68
+Colombia, 2001, 2357.0, 3.6360132E7, 89.48, Increase, 1.76
+Colombia, 2002, 2430.0, 3.6951988E7, 88.42, Decrease, -1.06
+Colombia, 2003, 2267.0, 3.7511424E7, 78.53, Decrease, -9.89
+Colombia, 2004, 2244.0, 3.8056744E7, 79.07, Increase, 0.54
+Colombia, 2005, 2201.0, 3.860722E7, 83.08, Increase, 4.01
+Colombia, 2006, 2084.0, 3.91499E7, 74.34, Decrease, -8.74
+Colombia, 2007, 2151.0, 3.9690456E7, 77.74, Increase, 3.40
+Colombia, 2008, 2178.0, 4.0259296E7, 74.15, Decrease, -3.59
+Colombia, 2009, 2219.0, 4.0838048E7, 74.16, Increase, 0.01
+Colombia, 2010, 2222.0, 4.1401024E7, 73.19, Decrease, -0.97
+Colombia, 2011, 2044.0, 4.1945048E7, 65.76, Decrease, -7.43
+Colombia, 2012, 2074.0, 4.2476968E7, 63.64, Decrease, -2.12
+Colombia, 2013, 2073.0, 4.2977752E7, 65.44, Increase, 1.80
+Colombia, 2014, 2076.0, 4.3454552E7, 63.78, Decrease, -1.66
+Colombia, 2015, 2182.0, 4.3920768E7, 68.10, Increase, 4.32
+Costa Rica, 1985, 1644.0, 2.9397718E7, 68.19, N/A, N/A
+Costa Rica, 1986, 113.0, 2265300.0, 63.95, Decrease, -4.24
+Costa Rica, 1987, 133.0, 2348200.0, 90.07, Increase, 26.12
+Costa Rica, 1988, 118.0, 2434100.0, 84.99, Decrease, -5.08
+Costa Rica, 1989, 147.0, 2455200.0, 92.64, Increase, 7.65
+Costa Rica, 1990, 173.0, 2576000.0, 86.57, Decrease, -6.07
+Costa Rica, 1991, 138.0, 2651800.0, 86.99, Increase, 0.42
+Costa Rica, 1992, 134.0, 2726600.0, 64.48, Decrease, -22.51
+Costa Rica, 1993, 146.0, 2802600.0, 71.53, Increase, 7.05
+Costa Rica, 1994, 175.0, 2879100.0, 102.03, Increase, 30.50
+Costa Rica, 1995, 178.0, 3026200.0, 84.32, Decrease, -17.71
+Costa Rica, 1996, 211.0, 3083451.0, 80.83, Decrease, -3.49
+Costa Rica, 1997, 211.0, 3224787.0, 94.66, Increase, 13.83
+Costa Rica, 1998, 178.0, 3310587.0, 77.40, Decrease, -17.26
+Costa Rica, 1999, 224.0, 3393530.0, 92.10, Increase, 14.70
+Costa Rica, 2000, 240.0, 3473261.0, 86.47, Decrease, -5.63
+Costa Rica, 2001, 223.0, 3551923.0, 83.56, Decrease, -2.91
+Costa Rica, 2002, 233.0, 3623861.0, 84.96, Increase, 1.40
+Costa Rica, 2003, 288.0, 3693767.0, 98.64, Increase, 13.68
+Costa Rica, 2004, 306.0, 3761457.0, 113.10, Increase, 14.46
+Costa Rica, 2005, 302.0, 3826453.0, 94.79, Decrease, -18.31
+Costa Rica, 2006, 302.0, 3891715.0, 85.92, Decrease, -8.87
+Costa Rica, 2007, 326.0, 3953168.0, 94.81, Increase, 8.89
+Costa Rica, 2008, 266.0, 4010000.0, 74.22, Decrease, -20.59
+Costa Rica, 2009, 263.0, 4064426.0, 72.75, Decrease, -1.47
+Costa Rica, 2010, 267.0, 4118876.0, 74.70, Increase, 1.95
+Costa Rica, 2011, 335.0, 4173784.0, 90.26, Increase, 15.56
+Costa Rica, 2012, 313.0, 4225764.0, 89.11, Decrease, -1.15
+Costa Rica, 2013, 289.0, 4281312.0, 77.64, Decrease, -11.47
+Costa Rica, 2014, 309.0, 4338182.0, 88.90, Increase, 11.26
+Croatia, 1995, 304.0, 4159684.0, 85.15, N/A, N/A
+Croatia, 1996, 938.0, 4431200.0, 310.52, Increase, 225.37
+Croatia, 1997, 988.0, 4242500.0, 330.07, Increase, 19.55
+Croatia, 1998, 933.0, 4275400.0, 309.97, Decrease, -20.10
+Croatia, 1999, 1041.0, 4244000.0, 347.77, Increase, 37.80
+Croatia, 2000, 966.0, 4232700.0, 320.87, Decrease, -26.90
+Croatia, 2001, 925.0, 4040049.0, 322.27, Increase, 1.40
+Croatia, 2002, 879.0, 4180584.0, 286.72, Decrease, -35.55
+Croatia, 2003, 878.0, 4208700.0, 305.78, Increase, 19.06
+Croatia, 2004, 844.0, 4212100.0, 275.09, Decrease, -30.69
+Croatia, 2005, 872.0, 4216453.0, 302.61, Increase, 27.52
+Croatia, 2006, 887.0, 4218738.0, 274.34, Decrease, -28.27
+Croatia, 2007, 782.0, 4216749.0, 243.82, Decrease, -30.52
+Croatia, 2008, 777.0, 4211859.0, 244.35, Increase, 0.53
+Croatia, 2009, 794.0, 4204698.0, 266.32, Increase, 21.97
+Croatia, 2010, 792.0, 4197203.0, 255.46, Decrease, -10.86
+Croatia, 2011, 756.0, 4187470.0, 234.75, Decrease, -20.71
+Croatia, 2012, 712.0, 4142637.0, 225.77, Decrease, -8.98
+Croatia, 2013, 780.0, 4043289.0, 240.52, Increase, 14.75
+Croatia, 2014, 694.0, 4034486.0, 211.47, Decrease, -29.05
+Croatia, 2015, 715.0, 4020319.0, 219.57, Increase, 8.10
+Croatia, 2016, 786.0, 4116792.0, 246.68, Increase, 27.11
+Cuba, 1992, 1406.0, 8232525.0, 258.83, N/A, N/A
+Cuba, 1993, 2250.0, 9943600.0, 364.32, Increase, 105.49
+Cuba, 1994, 2317.0, 1.0017E7, 387.15, Increase, 22.83
+Cuba, 1995, 2319.0, 1.00778E7, 367.87, Decrease, -19.28
+Cuba, 1996, 2094.0, 1.01299E7, 340.74, Decrease, -27.13
+Cuba, 1997, 1941.0, 1.0178192E7, 309.37, Decrease, -31.37
+Cuba, 1998, 2018.0, 1.0164991E7, 317.99, Increase, 8.62
+Cuba, 1999, 2061.0, 1.0203088E7, 328.16, Increase, 10.17
+Cuba, 2000, 2023.0, 1.0250534E7, 304.13, Decrease, -24.03
+Cuba, 2001, 1749.0, 1.0294763E7, 263.56, Decrease, -40.57
+Cuba, 2002, 1608.0, 1.0340248E7, 240.01, Decrease, -23.55
+Cuba, 2003, 1546.0, 1.0392508E7, 234.95, Decrease, -5.06
+Cuba, 2004, 1469.0, 1.0442624E7, 218.59, Decrease, -16.36
+Cuba, 2005, 1503.0, 1.0483621E7, 215.85, Decrease, -2.74
+Cuba, 2006, 1362.0, 1.0517352E7, 202.35, Decrease, -13.50
+Cuba, 2007, 1332.0, 1.0546536E7, 198.01, Decrease, -4.34
+Cuba, 2008, 1299.0, 1.0570192E7, 187.90, Decrease, -10.11
+Cuba, 2009, 1415.0, 1.0596707E7, 196.80, Increase, 8.90
+Cuba, 2010, 1469.0, 1.0629355E7, 200.61, Increase, 3.81
+Cuba, 2011, 1571.0, 1.0674561E7, 204.04, Increase, 3.43
+Cuba, 2012, 1529.0, 1.0713501E7, 206.97, Increase, 2.93
+Cuba, 2013, 1459.0, 1.0747535E7, 199.17, Decrease, -7.80
+Cuba, 2014, 1508.0, 1.077261E7, 191.44, Decrease, -7.73
+Cuba, 2015, 1432.0, 1.0790551E7, 181.66, Decrease, -9.78
+Cyprus, 1999, 1331.0, 7074908.0, 170.31, N/A, N/A
+Cyprus, 2000, 6.0, 864272.0, 8.33, Decrease, -161.98
+Cyprus, 2004, 3.0, 750113.0, 3.45, Decrease, -4.88
+Cyprus, 2005, 11.0, 694098.0, 16.25, Increase, 12.80
+Cyprus, 2006, 18.0, 705396.0, 26.61, Increase, 10.36
+Cyprus, 2007, 22.0, 718300.0, 32.12, Increase, 5.51
+Cyprus, 2008, 23.0, 735467.0, 42.30, Increase, 10.18
+Cyprus, 2009, 41.0, 755302.0, 57.98, Increase, 15.68
+Cyprus, 2010, 33.0, 775617.0, 56.57, Decrease, -1.41
+Cyprus, 2011, 27.0, 793971.0, 41.98, Decrease, -14.59
+Cyprus, 2012, 43.0, 801427.0, 62.49, Increase, 20.51
+Cyprus, 2013, 36.0, 805693.0, 43.79, Decrease, -18.70
+Cyprus, 2014, 46.0, 807301.0, 66.10, Increase, 22.31
+Cyprus, 2015, 42.0, 798257.0, 55.05, Decrease, -11.05
+Cyprus, 2016, 51.0, 930086.0, 55.61, Increase, 0.56
+Czech Republic, 1990, 1099.0, 7580018.0, 118.64, N/A, N/A
+Czech Republic, 1991, 2004.0, 9675300.0, 315.60, Increase, 196.96
+Czech Republic, 1992, 1972.0, 9689900.0, 295.40, Decrease, -20.20
+Czech Republic, 1993, 1969.0, 9706100.0, 301.08, Increase, 5.68
+Czech Republic, 1994, 1884.0, 9723000.0, 295.79, Decrease, -5.29
+Czech Republic, 1995, 1837.0, 9735000.0, 289.80, Decrease, -5.99
+Czech Republic, 1996, 1627.0, 9746600.0, 253.91, Decrease, -35.89
+Czech Republic, 1997, 1644.0, 9763800.0, 248.16, Decrease, -5.75
+Czech Republic, 1998, 1650.0, 9774200.0, 233.04, Decrease, -15.12
+Czech Republic, 1999, 1577.0, 9775765.0, 224.74, Decrease, -8.30
+Czech Republic, 2000, 1660.0, 9777860.0, 240.47, Increase, 15.73
+Czech Republic, 2001, 1654.0, 9789620.0, 225.57, Decrease, -14.90
+Czech Republic, 2002, 1535.0, 9695769.0, 214.59, Decrease, -10.98
+Czech Republic, 2003, 1656.0, 9682280.0, 223.88, Increase, 9.29
+Czech Republic, 2004, 1626.0, 9687032.0, 226.64, Increase, 2.76
+Czech Republic, 2005, 1568.0, 9700025.0, 201.21, Decrease, -25.43
+Czech Republic, 2006, 1437.0, 9717362.0, 181.98, Decrease, -19.23
+Czech Republic, 2007, 1382.0, 9755603.0, 177.89, Decrease, -4.09
+Czech Republic, 2008, 1382.0, 9831660.0, 170.23, Decrease, -7.66
+Czech Republic, 2009, 1421.0, 9880545.0, 177.62, Increase, 7.39
+Czech Republic, 2010, 1461.0, 9894418.0, 180.17, Increase, 2.55
+Czech Republic, 2011, 1561.0, 9847805.0, 183.90, Increase, 3.73
+Czech Republic, 2012, 1593.0, 9876829.0, 183.21, Decrease, -0.69
+Czech Republic, 2013, 1648.0, 9900986.0, 199.84, Increase, 16.63
+Czech Republic, 2014, 1497.0, 9935275.0, 176.92, Decrease, -22.92
+Czech Republic, 2015, 1393.0, 9968397.0, 167.49, Decrease, -9.43
+Czech Republic, 2016, 1795.0, 1.1471888E7, 206.49, Increase, 39.00
+Denmark, 1994, 1005.0, 5267121.0, 211.64, N/A, N/A
+Denmark, 1995, 935.0, 4884700.0, 246.38, Increase, 34.74
+Denmark, 1996, 898.0, 4915600.0, 229.39, Decrease, -16.99
+Denmark, 1997, 819.0, 4933900.0, 220.44, Decrease, -8.95
+Denmark, 1998, 791.0, 4954000.0, 207.40, Decrease, -13.04
+Denmark, 1999, 784.0, 4974647.0, 195.74, Decrease, -11.66
+Denmark, 2000, 704.0, 4996426.0, 169.04, Decrease, -26.70
+Denmark, 2001, 711.0, 5017035.0, 176.97, Increase, 7.93
+Denmark, 2002, 699.0, 5041012.0, 182.89, Increase, 5.92
+Denmark, 2003, 653.0, 5057436.0, 166.38, Decrease, -16.51
+Denmark, 2004, 668.0, 5072272.0, 166.28, Decrease, -0.10
+Denmark, 2005, 602.0, 5089356.0, 148.45, Decrease, -17.83
+Denmark, 2006, 667.0, 5109121.0, 170.96, Increase, 22.51
+Denmark, 2007, 593.0, 5132238.0, 150.72, Decrease, -20.24
+Denmark, 2008, 606.0, 5161458.0, 143.96, Decrease, -6.76
+Denmark, 2009, 615.0, 5190654.0, 141.89, Decrease, -2.07
+Denmark, 2010, 576.0, 5213511.0, 137.12, Decrease, -4.77
+Denmark, 2011, 602.0, 5239067.0, 135.60, Decrease, -1.52
+Denmark, 2012, 645.0, 5263244.0, 133.62, Decrease, -1.98
+Denmark, 2013, 609.0, 5291825.0, 136.39, Increase, 2.77
+Denmark, 2014, 619.0, 5328018.0, 135.44, Decrease, -0.95
+Denmark, 2015, 572.0, 5372166.0, 126.77, Decrease, -8.67
+Dominica, 1985, 89.0, 496433.0, 44.54, N/A, N/A
+Ecuador, 1985, 383.0, 7574700.0, 58.44, N/A, N/A
+Ecuador, 1986, 377.0, 7878800.0, 78.08, Increase, 19.64
+Ecuador, 1987, 393.0, 8329800.0, 72.21, Decrease, -5.87
+Ecuador, 1988, 465.0, 8589800.0, 74.16, Increase, 1.95
+Ecuador, 1989, 426.0, 8547253.0, 66.26, Decrease, -7.90
+Ecuador, 1990, 456.0, 8796101.0, 72.07, Increase, 5.81
+Ecuador, 1991, 493.0, 9095298.0, 64.98, Decrease, -7.09
+Ecuador, 1992, 496.0, 9234647.0, 65.73, Increase, 0.75
+Ecuador, 1993, 584.0, 9481701.0, 83.75, Increase, 18.02
+Ecuador, 1994, 506.0, 9718673.0, 60.50, Decrease, -23.25
+Ecuador, 1995, 548.0, 9954036.0, 70.96, Increase, 10.46
+Ecuador, 1996, 589.0, 1.0185586E7, 72.68, Increase, 1.72
+Ecuador, 1997, 582.0, 1.0417788E7, 70.61, Decrease, -2.07
+Ecuador, 1998, 545.0, 1.0646576E7, 61.88, Decrease, -8.73
+Ecuador, 1999, 613.0, 1.0873319E7, 69.16, Increase, 7.28
+Ecuador, 2000, 539.0, 1.1099143E7, 62.28, Decrease, -6.88
+Ecuador, 2001, 576.0, 1.1316479E7, 60.81, Decrease, -1.47
+Ecuador, 2002, 581.0, 1.1536972E7, 65.24, Increase, 4.43
+Ecuador, 2003, 672.0, 1.1759086E7, 69.20, Increase, 3.96
+Ecuador, 2004, 785.0, 1.1981956E7, 80.30, Increase, 11.10
+Ecuador, 2005, 940.0, 1.2204967E7, 94.77, Increase, 14.47
+Ecuador, 2006, 898.0, 1.2438274E7, 92.55, Decrease, -2.22
+Ecuador, 2007, 1012.0, 1.2666297E7, 101.12, Increase, 8.57
+Ecuador, 2008, 916.0, 1.2891918E7, 87.61, Decrease, -13.51
+Ecuador, 2009, 967.0, 1.3118451E7, 97.87, Increase, 10.26
+Ecuador, 2010, 921.0, 1.3347901E7, 87.30, Decrease, -10.57
+Ecuador, 2011, 916.0, 1.3570384E7, 80.77, Decrease, -6.53
+Ecuador, 2012, 975.0, 1.3802506E7, 84.73, Increase, 3.96
+Ecuador, 2013, 673.0, 1.4040694E7, 61.53, Decrease, -23.20
+Ecuador, 2014, 734.0, 1.4280243E7, 66.29, Increase, 4.76
+Ecuador, 2015, 1054.0, 1.4517798E7, 88.39, Increase, 22.10
+El Salvador, 1990, 602.0, 4870965.0, 161.68, N/A, N/A
+El Salvador, 1991, 469.0, 4573464.0, 157.74, Decrease, -3.94
+El Salvador, 1992, 432.0, 4596351.0, 161.21, Increase, 3.47
+El Salvador, 1993, 420.0, 4689900.0, 113.68, Decrease, -47.53
+El Salvador, 1995, 620.0, 4823872.0, 161.45, Increase, 47.77
+El Salvador, 1996, 540.0, 4887730.0, 145.89, Decrease, -15.56
+El Salvador, 1997, 581.0, 4944791.0, 152.41, Increase, 6.52
+El Salvador, 1998, 513.0, 5002073.0, 124.48, Decrease, -27.93
+El Salvador, 1999, 511.0, 5058866.0, 120.01, Decrease, -4.47
+El Salvador, 2000, 463.0, 5114669.0, 117.30, Decrease, -2.71
+El Salvador, 2001, 510.0, 5169728.0, 121.52, Increase, 4.22
+El Salvador, 2002, 436.0, 5225473.0, 112.60, Decrease, -8.92
+El Salvador, 2003, 529.0, 5278745.0, 134.07, Increase, 21.47
+El Salvador, 2004, 465.0, 5328335.0, 114.03, Decrease, -20.04
+El Salvador, 2005, 450.0, 5373899.0, 108.87, Decrease, -5.16
+El Salvador, 2006, 414.0, 5421676.0, 104.44, Decrease, -4.43
+El Salvador, 2007, 496.0, 5460634.0, 120.55, Increase, 16.11
+El Salvador, 2008, 485.0, 5492100.0, 119.14, Decrease, -1.41
+El Salvador, 2009, 511.0, 5521674.0, 132.86, Increase, 13.72
+El Salvador, 2010, 401.0, 5553134.0, 101.52, Decrease, -31.34
+El Salvador, 2011, 480.0, 5577519.0, 110.12, Increase, 8.60
+El Salvador, 2012, 512.0, 5610558.0, 123.85, Increase, 13.73
+El Salvador, 2013, 484.0, 5649066.0, 116.42, Decrease, -7.43
+El Salvador, 2014, 376.0, 5688426.0, 93.65, Decrease, -22.77
+Estonia, 1995, 584.0, 1490883.0, 424.24, N/A, N/A
+Estonia, 1996, 536.0, 1342309.0, 502.97, Increase, 78.73
+Estonia, 1997, 534.0, 1329978.0, 535.03, Increase, 32.06
+Estonia, 1998, 487.0, 1320219.0, 481.39, Decrease, -53.64
+Estonia, 1999, 448.0, 1311142.0, 408.75, Decrease, -72.64
+Estonia, 2000, 393.0, 1330496.0, 413.69, Increase, 4.94
+Estonia, 2001, 392.0, 1323000.0, 383.92, Decrease, -29.77
+Estonia, 2002, 378.0, 1313695.0, 358.78, Decrease, -25.14
+Estonia, 2003, 338.0, 1304015.0, 331.31, Decrease, -27.47
+Estonia, 2004, 334.0, 1294465.0, 337.50, Increase, 6.19
+Estonia, 2005, 269.0, 1285260.0, 253.75, Decrease, -83.75
+Estonia, 2006, 243.0, 1275750.0, 237.39, Decrease, -16.36
+Estonia, 2007, 249.0, 1267310.0, 248.74, Increase, 11.35
+Estonia, 2008, 246.0, 1261565.0, 259.41, Increase, 10.67
+Estonia, 2009, 270.0, 1257385.0, 262.48, Increase, 3.07
+Estonia, 2010, 222.0, 1252255.0, 218.32, Decrease, -44.16
+Estonia, 2011, 215.0, 1246621.0, 221.49, Increase, 3.17
+Estonia, 2012, 232.0, 1247849.0, 240.63, Increase, 19.14
+Estonia, 2013, 215.0, 1239389.0, 225.69, Decrease, -14.94
+Estonia, 2014, 243.0, 1238422.0, 258.87, Increase, 33.18
+Estonia, 2015, 205.0, 1240538.0, 230.10, Decrease, -28.77
+Fiji, 2001, 65.0, 832681.0, 123.71, N/A, N/A
+Fiji, 2002, 40.0, 722922.0, 60.26, Decrease, -63.45
+Fiji, 2003, 12.0, 725362.0, 66.40, Increase, 6.14
+Fiji, 2004, 22.0, 728208.0, 37.54, Decrease, -28.86
+Fiji, 2005, 23.0, 732439.0, 79.99, Increase, 42.45
+Fiji, 2006, 25.0, 737333.0, 56.56, Decrease, -23.43
+Fiji, 2007, 13.0, 744634.0, 20.46, Decrease, -36.10
+Fiji, 2008, 37.0, 753249.0, 47.48, Increase, 27.02
+Fiji, 2009, 25.0, 762025.0, 34.46, Decrease, -13.02
+Fiji, 2011, 36.0, 775298.0, 62.99, Increase, 28.53
+Fiji, 2012, 32.0, 782267.0, 99.50, Increase, 36.51
+Finland, 1987, 1302.0, 4363830.0, 325.71, N/A, N/A
+Finland, 1988, 1385.0, 4626100.0, 348.94, Increase, 23.23
+Finland, 1989, 1401.0, 4648100.0, 356.72, Increase, 7.78
+Finland, 1990, 1508.0, 4670000.0, 392.59, Increase, 35.87
+Finland, 1991, 1498.0, 4695000.0, 387.61, Decrease, -4.98
+Finland, 1992, 1468.0, 4717500.0, 366.37, Decrease, -21.24
+Finland, 1993, 1400.0, 4737900.0, 333.09, Decrease, -33.28
+Finland, 1994, 1387.0, 4760500.0, 334.37, Increase, 1.28
+Finland, 1995, 1391.0, 4777500.0, 329.89, Decrease, -4.48
+Finland, 1996, 1257.0, 4794400.0, 299.24, Decrease, -30.65
+Finland, 1997, 1309.0, 4816200.0, 300.33, Increase, 1.09
+Finland, 1998, 1217.0, 4836551.0, 292.00, Decrease, -8.33
+Finland, 1999, 1227.0, 4855773.0, 301.01, Increase, 9.01
+Finland, 2000, 1167.0, 4873324.0, 272.74, Decrease, -28.27
+Finland, 2001, 1198.0, 4889838.0, 266.49, Decrease, -6.25
+Finland, 2002, 1087.0, 4906865.0, 247.91, Decrease, -18.58
+Finland, 2003, 1076.0, 4920594.0, 248.29, Increase, 0.38
+Finland, 2004, 1069.0, 4933513.0, 249.34, Increase, 1.05
+Finland, 2005, 979.0, 4949398.0, 220.92, Decrease, -28.42
+Finland, 2006, 1078.0, 4968102.0, 249.32, Increase, 28.40
+Finland, 2007, 988.0, 4989042.0, 217.09, Decrease, -32.23
+Finland, 2008, 1049.0, 5012330.0, 231.39, Increase, 14.30
+Finland, 2009, 1016.0, 5035074.0, 219.54, Decrease, -11.85
+Finland, 2010, 956.0, 5055329.0, 218.61, Decrease, -0.93
+Finland, 2011, 914.0, 5077658.0, 202.16, Decrease, -16.45
+Finland, 2012, 890.0, 5101791.0, 198.13, Decrease, -4.03
+Finland, 2013, 870.0, 5125103.0, 190.31, Decrease, -7.82
+Finland, 2014, 790.0, 5148427.0, 177.65, Decrease, -12.66
+Finland, 2015, 729.0, 5177215.0, 162.90, Decrease, -14.75
+France, 1985, 10383.0, 4.8159532E7, 237.61, N/A, N/A
+France, 1986, 12562.0, 5.17718E7, 349.00, Increase, 111.39
+France, 1987, 12099.0, 5.16251E7, 339.49, Decrease, -9.51
+France, 1988, 11698.0, 5.2069E7, 320.73, Decrease, -18.76
+France, 1989, 11684.0, 5.23377E7, 313.90, Decrease, -6.83
+France, 1990, 11454.0, 5.30165E7, 304.20, Decrease, -9.70
+France, 1991, 11650.0, 5.33875E7, 304.71, Increase, 0.51
+France, 1992, 11671.0, 5.37067E7, 298.77, Decrease, -5.94
+France, 1993, 12243.0, 5.40008E7, 311.01, Increase, 12.24
+France, 1994, 12206.0, 5.42639E7, 309.28, Decrease, -1.73
+France, 1995, 11747.0, 5.43546E7, 293.97, Decrease, -15.31
+France, 1996, 11370.0, 5.46371E7, 282.45, Decrease, -11.52
+France, 1997, 11084.0, 5.49094E7, 266.34, Decrease, -16.11
+France, 1998, 10664.0, 5.53793E7, 258.52, Decrease, -7.82
+France, 1999, 10283.0, 5.4910712E7, 250.36, Decrease, -8.16
+France, 2000, 10692.0, 5.514252E7, 250.83, Increase, 0.47
+France, 2001, 10593.0, 5.5382664E7, 251.78, Increase, 0.95
+France, 2002, 10645.0, 5.5806444E7, 242.08, Decrease, -9.70
+France, 2003, 10802.0, 5.623504E7, 239.27, Decrease, -2.81
+France, 2004, 10853.0, 5.6676396E7, 238.24, Decrease, -1.03
+France, 2005, 10606.0, 5.7019408E7, 229.19, Decrease, -9.05
+France, 2006, 10499.0, 5.763712E7, 227.25, Decrease, -1.94
+France, 2007, 10074.0, 5.8023156E7, 213.59, Decrease, -13.66
+France, 2008, 10322.0, 5.8367464E7, 216.70, Increase, 3.11
+France, 2009, 10491.0, 5.8663416E7, 217.79, Increase, 1.09
+France, 2010, 10376.0, 5.895838E7, 212.71, Decrease, -5.08
+France, 2011, 10350.0, 5.9249736E7, 209.81, Decrease, -2.90
+France, 2012, 9745.0, 5.9559108E7, 200.60, Decrease, -9.21
+France, 2013, 9706.0, 5.9861464E7, 197.56, Decrease, -3.04
+France, 2014, 8901.0, 6.0198176E7, 181.70, Decrease, -15.86
+Georgia, 1990, 1922.0, 1.0709372E7, 106.58, N/A, N/A
+Georgia, 1991, 179.0, 5015700.0, 61.35, Decrease, -45.23
+Georgia, 1992, 205.0, 4988200.0, 60.37, Decrease, -0.98
+Georgia, 1994, 129.0, 4534950.0, 46.83, Decrease, -13.54
+Georgia, 1995, 141.0, 4413900.0, 41.96, Decrease, -4.87
+Georgia, 1996, 149.0, 4313150.0, 44.10, Increase, 2.14
+Georgia, 1997, 181.0, 4242150.0, 65.46, Increase, 21.36
+Georgia, 1998, 152.0, 4209250.0, 54.55, Decrease, -10.91
+Georgia, 1999, 183.0, 4187300.0, 59.71, Increase, 5.16
+Georgia, 2000, 134.0, 4165250.0, 52.92, Decrease, -6.79
+Georgia, 2001, 102.0, 4140350.0, 39.90, Decrease, -13.02
+Georgia, 2004, 166.0, 4061350.0, 52.37, Increase, 12.47
+Georgia, 2005, 100.0, 4119050.0, 47.25, Decrease, -5.12
+Georgia, 2006, 73.0, 4153400.0, 25.31, Decrease, -21.94
+Georgia, 2007, 95.0, 4144700.0, 27.84, Increase, 2.53
+Georgia, 2009, 175.0, 4139950.0, 54.49, Increase, 26.65
+Georgia, 2010, 128.0, 4179250.0, 50.01, Decrease, -4.48
+Georgia, 2011, 94.0, 4197200.0, 29.60, Decrease, -20.41
+Georgia, 2012, 107.0, 4187700.0, 39.05, Increase, 9.45
+Georgia, 2013, 142.0, 4178300.0, 43.31, Increase, 4.26
+Georgia, 2014, 196.0, 3518800.0, 72.57, Increase, 29.26
+Georgia, 2015, 172.0, 3467000.0, 68.53, Decrease, -4.04
+Germany, 1990, 11281.0, 6.95162E7, 184.53, N/A, N/A
+Germany, 1991, 14088.0, 7.56258E7, 258.48, Increase, 73.95
+Germany, 1992, 13570.0, 7.6314608E7, 250.46, Decrease, -8.02
+Germany, 1993, 13010.0, 7.6973E7, 243.20, Decrease, -7.26
+Germany, 1994, 12883.0, 7.72536E7, 236.83, Decrease, -6.37
+Germany, 1995, 12765.0, 7.74624E7, 229.62, Decrease, -7.21
+Germany, 1996, 12397.0, 7.7721792E7, 227.32, Decrease, -2.30
+Germany, 1997, 12285.0, 7.7914E7, 216.14, Decrease, -11.18
+Germany, 1998, 11764.0, 7.7959392E7, 205.67, Decrease, -10.47
+Germany, 1999, 11193.0, 7.8036608E7, 194.65, Decrease, -11.02
+Germany, 2000, 11100.0, 7.8117856E7, 187.64, Decrease, -7.01
+Germany, 2001, 11064.0, 7.8269648E7, 185.03, Decrease, -2.61
+Germany, 2002, 11126.0, 7.8489856E7, 184.58, Decrease, -0.45
+Germany, 2003, 11113.0, 7.8604872E7, 182.47, Decrease, -2.11
+Germany, 2004, 10779.0, 7.8640376E7, 176.72, Decrease, -5.75
+Germany, 2005, 10370.0, 7.8675824E7, 167.23, Decrease, -9.49
+Germany, 2006, 9828.0, 7.8677176E7, 156.18, Decrease, -11.05
+Germany, 2007, 9442.0, 7.8656152E7, 149.50, Decrease, -6.68
+Germany, 2008, 9456.0, 7.8565136E7, 146.90, Decrease, -2.60
+Germany, 2009, 9591.0, 7.8297688E7, 146.75, Decrease, -0.15
+Germany, 2010, 9894.0, 7.8105944E7, 150.90, Increase, 4.15
+Germany, 2011, 10020.0, 7.8091944E7, 151.57, Increase, 0.67
+Germany, 2012, 9857.0, 7.821632E7, 149.68, Decrease, -1.89
+Germany, 2013, 9969.0, 7.7154928E7, 150.52, Increase, 0.84
+Germany, 2014, 10147.0, 7.7200416E7, 153.84, Increase, 3.32
+Germany, 2015, 9953.0, 7.77616E7, 149.66, Decrease, -4.18
+Greece, 1985, 2719.0, 1.7550566E7, 99.92, N/A, N/A
+Greece, 1986, 379.0, 9316300.0, 56.24, Decrease, -43.68
+Greece, 1987, 406.0, 9386800.0, 61.26, Increase, 5.02
+Greece, 1988, 406.0, 9436400.0, 62.63, Increase, 1.37
+Greece, 1989, 395.0, 9514200.0, 59.06, Decrease, -3.57
+Greece, 1990, 347.0, 9605100.0, 50.59, Decrease, -8.47
+Greece, 1991, 373.0, 9709187.0, 52.48, Increase, 1.89
+Greece, 1992, 358.0, 9826492.0, 51.57, Decrease, -0.91
+Greece, 1993, 415.0, 9924504.0, 54.87, Increase, 3.30
+Greece, 1994, 359.0, 1.0014491E7, 47.84, Decrease, -7.03
+Greece, 1995, 366.0, 1.0096485E7, 47.86, Increase, 0.02
+Greece, 1996, 362.0, 1.0173336E7, 48.33, Increase, 0.47
+Greece, 1997, 373.0, 1.0243433E7, 46.95, Decrease, -1.38
+Greece, 1998, 408.0, 1.0305297E7, 49.62, Increase, 2.67
+Greece, 1999, 380.0, 1.035751E7, 46.05, Decrease, -3.57
+Greece, 2000, 384.0, 1.0398598E7, 45.85, Decrease, -0.20
+Greece, 2001, 336.0, 1.0420453E7, 39.76, Decrease, -6.09
+Greece, 2002, 318.0, 1.0446886E7, 37.49, Decrease, -2.27
+Greece, 2003, 382.0, 1.048064E7, 43.04, Increase, 5.55
+Greece, 2004, 341.0, 1.0512143E7, 37.81, Decrease, -5.23
+Greece, 2005, 384.0, 1.0537496E7, 43.43, Increase, 5.62
+Greece, 2006, 391.0, 1.0572195E7, 45.44, Increase, 2.01
+Greece, 2007, 361.0, 1.0617765E7, 42.99, Decrease, -2.45
+Greece, 2008, 346.0, 1.0647533E7, 33.96, Decrease, -9.03
+Greece, 2009, 396.0, 1.0672683E7, 42.82, Increase, 8.86
+Greece, 2010, 374.0, 1.0691742E7, 39.60, Decrease, -3.22
+Greece, 2011, 472.0, 1.0692972E7, 48.45, Increase, 8.85
+Greece, 2012, 497.0, 1.0515498E7, 51.04, Increase, 2.59
+Greece, 2013, 545.0, 1.0408592E7, 57.86, Increase, 6.82
+Greece, 2014, 539.0, 1.0354106E7, 55.19, Decrease, -2.67
+Greece, 2015, 538.0, 1.0313537E7, 57.72, Increase, 2.53
+Grenada, 1985, 83.0, 1262491.0, 40.95, N/A, N/A
+Grenada, 1988, 4.0, 86515.0, 46.80, Increase, 5.85
+Grenada, 1989, 4.0, 82572.0, 65.09, Increase, 18.29
+Grenada, 1990, 2.0, 81833.0, 24.75, Decrease, -40.34
+Grenada, 1991, 0.0, 82000.0, 0.00, Decrease, -24.75
+Grenada, 1992, 0.0, 83815.0, 0.00, Remain, 0.00
+Grenada, 1993, 3.0, 85146.0, 34.21, Increase, 34.21
+Grenada, 1994, 4.0, 86918.0, 60.82, Increase, 26.61
+Grenada, 1995, 0.0, 88379.0, 0.00, Decrease, -60.82
+Grenada, 1996, 2.0, 89643.0, 63.91, Increase, 63.91
+Grenada, 2001, 0.0, 91186.0, 0.00, Decrease, -63.91
+Grenada, 2002, 0.0, 91777.0, 0.00, Remain, 0.00
+Grenada, 2003, 4.0, 92448.0, 69.18, Increase, 69.18
+Grenada, 2004, 1.0, 93135.0, 13.37, Decrease, -55.81
+Grenada, 2005, 5.0, 93689.0, 85.12, Increase, 71.75
+Grenada, 2006, 2.0, 94117.0, 85.59, Increase, 0.47
+Grenada, 2007, 3.0, 94465.0, 48.34, Decrease, -37.25
+Grenada, 2008, 0.0, 94668.0, 0.00, Decrease, -48.34
+Grenada, 2009, 0.0, 94835.0, 0.00, Remain, 0.00
+Grenada, 2010, 0.0, 95048.0, 0.00, Remain, 0.00
+Grenada, 2011, 1.0, 95078.0, 20.73, Increase, 20.73
+Grenada, 2012, 2.0, 95385.0, 18.01, Decrease, -2.72
+Grenada, 2013, 0.0, 95845.0, 0.00, Decrease, -18.01
+Grenada, 2014, 0.0, 96385.0, 0.00, Remain, 0.00
+Grenada, 2015, 0.0, 96919.0, 0.00, Remain, 0.00
+Grenada, 2016, 0.0, 82525.0, 0.00, Remain, 0.00
+Guatemala, 1986, 203.0, 6924188.0, 42.84, N/A, N/A
+Guatemala, 1987, 241.0, 7108740.0, 57.92, Increase, 15.08
+Guatemala, 1988, 174.0, 7300076.0, 47.24, Decrease, -10.68
+Guatemala, 1989, 152.0, 7493108.0, 35.23, Decrease, -12.01
+Guatemala, 1990, 158.0, 7683992.0, 34.07, Decrease, -1.16
+Guatemala, 1991, 156.0, 7880665.0, 33.52, Decrease, -0.55
+Guatemala, 1992, 173.0, 8069672.0, 38.25, Increase, 4.73
+Guatemala, 1993, 165.0, 8254958.0, 31.17, Decrease, -7.08
+Guatemala, 1994, 142.0, 8443914.0, 25.90, Decrease, -5.27
+Guatemala, 1995, 211.0, 8641512.0, 34.13, Increase, 8.23
+Guatemala, 1996, 157.0, 8832326.0, 30.05, Decrease, -4.08
+Guatemala, 1997, 179.0, 9044205.0, 26.51, Decrease, -3.54
+Guatemala, 1998, 201.0, 9273529.0, 37.06, Increase, 10.55
+Guatemala, 1999, 234.0, 9512666.0, 36.50, Decrease, -0.56
+Guatemala, 2000, 182.0, 9755585.0, 27.42, Decrease, -9.08
+Guatemala, 2001, 202.0, 1.0015097E7, 30.59, Increase, 3.17
+Guatemala, 2002, 258.0, 1.0277166E7, 40.53, Increase, 9.94
+Guatemala, 2003, 253.0, 1.054298E7, 37.34, Decrease, -3.19
+Guatemala, 2004, 250.0, 1.0817808E7, 29.93, Decrease, -7.41
+Guatemala, 2005, 238.0, 1.1104906E7, 32.61, Increase, 2.68
+Guatemala, 2006, 298.0, 1.1397134E7, 41.95, Increase, 9.34
+Guatemala, 2007, 327.0, 1.1708397E7, 40.27, Decrease, -1.68
+Guatemala, 2008, 492.0, 1.2032885E7, 54.76, Increase, 14.49
+Guatemala, 2009, 511.0, 1.2359945E7, 57.57, Increase, 2.81
+Guatemala, 2010, 352.0, 1.2682151E7, 35.43, Decrease, -22.14
+Guatemala, 2011, 359.0, 1.3017342E7, 34.69, Decrease, -0.74
+Guatemala, 2012, 420.0, 1.3335425E7, 41.80, Increase, 7.11
+Guatemala, 2013, 455.0, 1.3641878E7, 40.69, Decrease, -1.11
+Guatemala, 2014, 512.0, 1.394719E7, 45.88, Increase, 5.19
+Guatemala, 2015, 494.0, 1.4258397E7, 44.85, Decrease, -1.03
+Guyana, 1988, 56.0, 654894.0, 91.92, N/A, N/A
+Guyana, 1989, 94.0, 654104.0, 184.88, Increase, 92.96
+Guyana, 1990, 89.0, 653426.0, 177.06, Decrease, -7.82
+Guyana, 1991, 105.0, 654620.0, 232.84, Increase, 55.78
+Guyana, 1992, 78.0, 656713.0, 182.15, Decrease, -50.69
+Guyana, 1993, 72.0, 658831.0, 116.81, Decrease, -65.34
+Guyana, 1994, 86.0, 660582.0, 162.20, Increase, 45.39
+Guyana, 1995, 99.0, 661682.0, 208.72, Increase, 46.52
+Guyana, 1996, 60.0, 659048.0, 128.31, Decrease, -80.41
+Guyana, 1997, 40.0, 657584.0, 82.65, Decrease, -45.66
+Guyana, 1998, 35.0, 657089.0, 64.86, Decrease, -17.79
+Guyana, 1999, 163.0, 657094.0, 313.62, Increase, 248.76
+Guyana, 2001, 197.0, 660426.0, 380.76, Increase, 67.14
+Guyana, 2002, 176.0, 662839.0, 311.93, Decrease, -68.83
+Guyana, 2003, 198.0, 664705.0, 382.54, Increase, 70.61
+Guyana, 2004, 186.0, 666308.0, 400.00, Increase, 17.46
+Guyana, 2005, 169.0, 667709.0, 333.96, Decrease, -66.04
+Guyana, 2006, 201.0, 668408.0, 394.60, Increase, 60.64
+Guyana, 2007, 185.0, 668788.0, 373.75, Decrease, -20.85
+Guyana, 2008, 168.0, 669253.0, 353.62, Decrease, -20.13
+Guyana, 2009, 156.0, 670155.0, 301.78, Decrease, -51.84
+Guyana, 2010, 205.0, 671825.0, 403.07, Increase, 101.29
+Guyana, 2011, 192.0, 675283.0, 349.53, Decrease, -53.54
+Guyana, 2012, 206.0, 679356.0, 367.98, Increase, 18.45
+Guyana, 2013, 210.0, 683867.0, 356.38, Decrease, -11.60
+Hungary, 1991, 3993.0, 9757766.0, 575.00, N/A, N/A
+Hungary, 1992, 4000.0, 9754956.0, 570.26, Decrease, -4.74
+Hungary, 1993, 3694.0, 9747902.0, 539.28, Decrease, -30.98
+Hungary, 1994, 3625.0, 9740817.0, 535.81, Decrease, -3.47
+Hungary, 1995, 3366.0, 9737248.0, 493.42, Decrease, -42.39
+Hungary, 1996, 3436.0, 9737250.0, 482.74, Decrease, -10.68
+Hungary, 1997, 3208.0, 9737781.0, 470.44, Decrease, -12.30
+Hungary, 1998, 3245.0, 9734373.0, 436.78, Decrease, -33.66
+Hungary, 1999, 3326.0, 9553064.0, 483.88, Increase, 47.10
+Hungary, 2000, 3269.0, 9527034.0, 464.56, Decrease, -19.32
+Hungary, 2001, 2978.0, 9704598.0, 408.98, Decrease, -55.58
+Hungary, 2002, 2839.0, 9680164.0, 382.75, Decrease, -26.23
+Hungary, 2003, 2800.0, 9652533.0, 372.04, Decrease, -10.71
+Hungary, 2004, 2742.0, 9630044.0, 369.47, Decrease, -2.57
+Hungary, 2005, 2619.0, 9608943.0, 352.01, Decrease, -17.46
+Hungary, 2006, 2461.0, 9591110.0, 312.66, Decrease, -39.35
+Hungary, 2007, 2450.0, 9572938.0, 327.32, Increase, 14.66
+Hungary, 2008, 2476.0, 9552784.0, 331.68, Increase, 4.36
+Hungary, 2009, 2460.0, 9534237.0, 310.72, Decrease, -20.96
+Hungary, 2010, 2489.0, 9514005.0, 321.31, Increase, 10.59
+Hungary, 2011, 2420.0, 9495011.0, 299.85, Decrease, -21.46
+Hungary, 2012, 2349.0, 9453181.0, 305.96, Increase, 6.11
+Hungary, 2013, 2092.0, 9433840.0, 266.23, Decrease, -39.73
+Hungary, 2014, 1925.0, 9412788.0, 244.31, Decrease, -21.92
+Hungary, 2015, 1868.0, 9389519.0, 257.27, Increase, 12.96
+Iceland, 1985, 1761.0, 8432170.0, 241.34, N/A, N/A
+Iceland, 1986, 33.0, 220600.0, 175.66, Decrease, -65.68
+Iceland, 1987, 37.0, 222400.0, 215.08, Increase, 39.42
+Iceland, 1988, 35.0, 225500.0, 205.35, Decrease, -9.73
+Iceland, 1989, 35.0, 229300.0, 167.98, Decrease, -37.37
+Iceland, 1990, 22.0, 231700.0, 110.12, Decrease, -57.86
+Iceland, 1991, 41.0, 233100.0, 185.16, Increase, 75.04
+Iceland, 1992, 36.0, 235900.0, 194.88, Increase, 9.72
+Iceland, 1993, 28.0, 238600.0, 122.89, Decrease, -71.99
+Iceland, 1994, 26.0, 240600.0, 109.02, Decrease, -13.87
+Iceland, 1995, 25.0, 242700.0, 125.44, Increase, 16.42
+Iceland, 1996, 28.0, 244800.0, 134.23, Increase, 8.79
+Iceland, 1997, 32.0, 246452.0, 172.78, Increase, 38.55
+Iceland, 1998, 33.0, 249191.0, 164.02, Decrease, -8.76
+Iceland, 1999, 30.0, 252795.0, 141.09, Decrease, -22.93
+Iceland, 2000, 31.0, 256433.0, 128.92, Decrease, -12.17
+Iceland, 2001, 50.0, 260320.0, 207.99, Increase, 79.07
+Iceland, 2002, 36.0, 264202.0, 163.06, Decrease, -44.93
+Iceland, 2003, 30.0, 266156.0, 131.24, Decrease, -31.82
+Iceland, 2004, 26.0, 268189.0, 100.97, Decrease, -30.27
+Iceland, 2005, 35.0, 271331.0, 168.81, Increase, 67.84
+Iceland, 2006, 33.0, 274528.0, 115.00, Decrease, -53.81
+Iceland, 2007, 32.0, 282814.0, 106.39, Decrease, -8.61
+Iceland, 2008, 37.0, 289503.0, 163.29, Increase, 56.90
+Iceland, 2009, 38.0, 296723.0, 136.09, Decrease, -27.20
+Iceland, 2010, 37.0, 295799.0, 128.29, Decrease, -7.80
+Iceland, 2011, 46.0, 294396.0, 184.29, Increase, 56.00
+Iceland, 2012, 26.0, 295474.0, 88.37, Decrease, -95.92
+Iceland, 2013, 37.0, 297669.0, 145.41, Increase, 57.04
+Iceland, 2014, 49.0, 301120.0, 221.24, Increase, 75.83
+Iceland, 2015, 44.0, 304991.0, 197.96, Decrease, -23.28
+Iceland, 2016, 46.0, 311115.0, 165.55, Decrease, -32.41
+Ireland, 1985, 86.0, 1542203.0, 129.71, N/A, N/A
+Ireland, 1986, 279.0, 3205800.0, 103.20, Decrease, -26.51
+Ireland, 1987, 264.0, 3211600.0, 99.17, Decrease, -4.03
+Ireland, 1988, 261.0, 3220200.0, 100.61, Increase, 1.44
+Ireland, 1989, 261.0, 3216800.0, 111.88, Increase, 11.27
+Ireland, 1990, 290.0, 3215200.0, 114.35, Increase, 2.47
+Ireland, 1991, 339.0, 3213600.0, 127.36, Increase, 13.01
+Ireland, 1992, 357.0, 3255700.0, 129.98, Increase, 2.62
+Ireland, 1993, 347.0, 3280900.0, 132.86, Increase, 2.88
+Ireland, 1994, 348.0, 3296600.0, 124.13, Decrease, -8.73
+Ireland, 1995, 403.0, 3314400.0, 145.52, Increase, 21.39
+Ireland, 1996, 410.0, 3339800.0, 145.73, Increase, 0.21
+Ireland, 1997, 436.0, 3370751.0, 153.80, Increase, 8.07
+Ireland, 1998, 465.0, 3402363.0, 155.66, Increase, 1.86
+Ireland, 1999, 477.0, 3437754.0, 155.92, Increase, 0.26
+Ireland, 2000, 425.0, 3471676.0, 141.59, Decrease, -14.33
+Ireland, 2001, 461.0, 3512623.0, 141.87, Increase, 0.28
+Ireland, 2002, 489.0, 3572974.0, 149.25, Increase, 7.38
+Ireland, 2003, 455.0, 3640101.0, 137.71, Decrease, -11.54
+Ireland, 2004, 437.0, 3693845.0, 129.42, Decrease, -8.29
+Ireland, 2005, 470.0, 3754337.0, 131.59, Increase, 2.17
+Ireland, 2006, 457.0, 3835014.0, 123.19, Decrease, -8.40
+Ireland, 2007, 444.0, 3947885.0, 124.07, Increase, 0.88
+Ireland, 2008, 456.0, 4023707.0, 121.88, Decrease, -2.19
+Ireland, 2009, 503.0, 4071495.0, 130.44, Increase, 8.56
+Ireland, 2010, 517.0, 4132644.0, 128.29, Decrease, -2.15
+Ireland, 2011, 496.0, 4270629.0, 124.64, Decrease, -3.65
+Ireland, 2012, 539.0, 4202229.0, 134.51, Increase, 9.87
+Ireland, 2013, 518.0, 4212379.0, 129.66, Decrease, -4.85
+Ireland, 2014, 508.0, 4234959.0, 125.58, Decrease, -4.08
+Israel, 1985, 436.0, 4758721.0, 98.51, N/A, N/A
+Israel, 1986, 250.0, 3777600.0, 116.22, Increase, 17.71
+Israel, 1987, 269.0, 3841400.0, 127.56, Increase, 11.34
+Israel, 1988, 283.0, 3908600.0, 136.41, Increase, 8.85
+Israel, 1989, 300.0, 3977900.0, 123.16, Decrease, -13.25
+Israel, 1990, 354.0, 4065900.0, 170.24, Increase, 47.08
+Israel, 1991, 322.0, 4247800.0, 125.65, Decrease, -44.59
+Israel, 1992, 368.0, 4481700.0, 140.71, Increase, 15.06
+Israel, 1993, 373.0, 4635200.0, 128.88, Decrease, -11.83
+Israel, 1994, 379.0, 4760700.0, 138.46, Increase, 9.58
+Israel, 1995, 419.0, 4887500.0, 150.27, Increase, 11.81
+Israel, 1996, 343.0, 5009500.0, 123.71, Decrease, -26.56
+Israel, 1997, 326.0, 5141400.0, 114.12, Decrease, -9.59
+Israel, 1998, 371.0, 5270100.0, 124.82, Increase, 10.70
+Israel, 1999, 325.0, 5397600.0, 101.07, Decrease, -23.75
+Israel, 2000, 369.0, 5534207.0, 102.65, Increase, 1.58
+Israel, 2001, 406.0, 5674113.0, 110.56, Increase, 7.91
+Israel, 2002, 386.0, 5804556.0, 106.01, Decrease, -4.55
+Israel, 2003, 376.0, 5923298.0, 92.23, Decrease, -13.78
+Israel, 2004, 429.0, 6033387.0, 99.22, Increase, 6.99
+Israel, 2005, 411.0, 6143693.0, 98.31, Decrease, -0.91
+Israel, 2006, 423.0, 6256952.0, 102.50, Increase, 4.19
+Israel, 2007, 345.0, 6370722.0, 76.54, Decrease, -25.96
+Israel, 2008, 344.0, 6485141.0, 76.59, Increase, 0.05
+Israel, 2009, 344.0, 6576383.0, 85.58, Increase, 8.99
+Israel, 2010, 416.0, 6764659.0, 82.23, Decrease, -3.35
+Israel, 2011, 456.0, 6889372.0, 95.48, Increase, 13.25
+Israel, 2012, 403.0, 7010833.0, 86.27, Decrease, -9.21
+Israel, 2013, 424.0, 7140939.0, 82.56, Decrease, -3.71
+Israel, 2014, 383.0, 7275711.0, 75.85, Decrease, -6.71
+Israel, 2015, 375.0, 7421402.0, 70.15, Decrease, -5.70
+Italy, 1985, 620.0, 2.213342E7, 65.67, N/A, N/A
+Italy, 1986, 4762.0, 5.38968E7, 133.46, Increase, 67.79
+Italy, 1987, 4687.0, 5.40064E7, 130.96, Decrease, -2.50
+Italy, 1988, 4509.0, 5.41231E7, 125.42, Decrease, -5.54
+Italy, 1989, 4398.0, 5.4208E7, 122.28, Decrease, -3.14
+Italy, 1990, 4391.0, 5.43061E7, 117.81, Decrease, -4.47
+Italy, 1991, 4358.0, 5.43267E7, 121.16, Increase, 3.35
+Italy, 1992, 4505.0, 5.4021592E7, 117.27, Decrease, -3.89
+Italy, 1993, 4546.0, 5.3760264E7, 115.91, Decrease, -1.36
+Italy, 1994, 4721.0, 5.3777216E7, 121.98, Increase, 6.07
+Italy, 1995, 4497.0, 5.3771372E7, 118.13, Decrease, -3.85
+Italy, 1996, 4584.0, 5.380736E7, 118.71, Increase, 0.58
+Italy, 1997, 4701.0, 5.3826E7, 116.05, Decrease, -2.66
+Italy, 1998, 4646.0, 5.392126E7, 116.13, Increase, 0.08
+Italy, 1999, 4452.0, 5.3979304E7, 112.68, Decrease, -3.45
+Italy, 2000, 4102.0, 5.3998504E7, 99.65, Decrease, -13.03
+Italy, 2001, 4088.0, 5.4051448E7, 98.92, Decrease, -0.73
+Italy, 2002, 4024.0, 5.4053624E7, 96.01, Decrease, -2.91
+Italy, 2003, 4046.0, 5.4424792E7, 94.00, Decrease, -2.01
+Italy, 2004, 4049.0, 5.4773176E7, 93.74, Decrease, -0.26
+Italy, 2005, 3990.0, 5.4924568E7, 91.53, Decrease, -2.21
+Italy, 2006, 3711.0, 5.5415608E7, 81.45, Decrease, -10.08
+Italy, 2007, 3725.0, 5.6195488E7, 82.43, Increase, 0.98
+Italy, 2008, 3744.0, 5.6629024E7, 81.49, Decrease, -0.94
+Italy, 2009, 3896.0, 5.7049496E7, 81.44, Decrease, -0.05
+Italy, 2010, 3966.0, 5.7375844E7, 81.68, Increase, 0.24
+Italy, 2011, 4021.0, 5.7401524E7, 81.99, Increase, 0.31
+Italy, 2012, 4166.0, 5.6626256E7, 86.53, Increase, 4.54
+Italy, 2013, 4233.0, 5.6899648E7, 84.63, Decrease, -1.90
+Italy, 2014, 4311.0, 5.7580508E7, 85.51, Increase, 0.88
+Italy, 2015, 4127.0, 5.806336E7, 81.49, Decrease, -4.02
+Jamaica, 1985, 3783.0, 4.7557948E7, 72.70, N/A, N/A
+Jamaica, 1986, 5.0, 2008369.0, 7.88, Decrease, -64.82
+Jamaica, 1987, 7.0, 2046639.0, 2.90, Decrease, -4.98
+Jamaica, 1988, 9.0, 2066744.0, 6.24, Increase, 3.34
+Jamaica, 1989, 3.0, 2087845.0, 3.41, Decrease, -2.83
+Jamaica, 1990, 2.0, 2108582.0, 0.80, Decrease, -2.61
+Jamaica, 1991, 1.0, 2130760.0, 0.52, Decrease, -0.28
+Jamaica, 2000, 2.0, 2147021.0, 1.32, Increase, 0.80
+Jamaica, 2001, 3.0, 2370574.0, 1.15, Decrease, -0.17
+Jamaica, 2002, 4.0, 2395938.0, 2.39, Increase, 1.24
+Jamaica, 2003, 3.0, 2421242.0, 1.11, Decrease, -1.28
+Jamaica, 2004, 1.0, 2445613.0, 0.50, Decrease, -0.61
+Jamaica, 2005, 10.0, 2468635.0, 4.23, Increase, 3.73
+Jamaica, 2006, 42.0, 2493487.0, 22.68, Increase, 18.45
+Jamaica, 2009, 7.0, 2508460.0, 2.61, Decrease, -20.07
+Jamaica, 2010, 30.0, 2563038.0, 18.89, Increase, 16.28
+Jamaica, 2011, 14.0, 2578464.0, 5.32, Decrease, -13.57
+Japan, 1985, 1753.0, 3.7108008E7, 43.17, N/A, N/A
+Japan, 1986, 23611.0, 1.127366E8, 304.12, Increase, 260.95
+Japan, 1987, 25118.0, 1.13598E8, 318.96, Increase, 14.84
+Japan, 1988, 23595.0, 1.14277E8, 294.19, Decrease, -24.77
+Japan, 1989, 22511.0, 1.1489E8, 282.63, Decrease, -11.56
+Japan, 1990, 20899.0, 1.153316E8, 262.22, Decrease, -20.41
+Japan, 1991, 20015.0, 1.162008E8, 246.18, Decrease, -16.04
+Japan, 1992, 19931.0, 1.16327E8, 236.26, Decrease, -9.92
+Japan, 1993, 20664.0, 1.16794E8, 239.32, Increase, 3.06
+Japan, 1994, 20611.0, 1.17127E8, 227.09, Decrease, -12.23
+Japan, 1995, 20662.0, 1.17268096E8, 228.51, Increase, 1.42
+Japan, 1996, 21219.0, 1.176614E8, 228.17, Decrease, -0.34
+Japan, 1997, 21925.0, 1.1801E8, 228.43, Increase, 0.26
+Japan, 1998, 23907.0, 1.1822E8, 245.40, Increase, 16.97
+Japan, 1999, 31338.0, 1.18521E8, 305.89, Increase, 60.49
+Japan, 2000, 30954.0, 1.18710392E8, 297.82, Decrease, -8.07
+Japan, 2001, 29840.0, 1.19128272E8, 277.22, Decrease, -20.60
+Japan, 2002, 29032.0, 1.19542E8, 266.26, Decrease, -10.96
+Japan, 2003, 29865.0, 1.19693E8, 268.56, Increase, 2.30
+Japan, 2004, 31963.0, 1.19912E8, 281.14, Increase, 12.58
+Japan, 2005, 30104.0, 1.20008816E8, 268.17, Decrease, -12.97
+Japan, 2006, 30407.0, 1.20347688E8, 268.01, Decrease, -0.16
+Japan, 2007, 29695.0, 1.20389E8, 261.56, Decrease, -6.45
+Japan, 2008, 30824.0, 1.20334E8, 271.84, Increase, 10.28
+Japan, 2009, 30005.0, 1.20206E8, 264.87, Decrease, -6.97
+Japan, 2010, 30423.0, 1.2004576E8, 265.91, Increase, 1.04
+Japan, 2011, 29519.0, 1.20847504E8, 257.71, Decrease, -8.20
+Japan, 2012, 28636.0, 1.20684E8, 250.52, Decrease, -7.19
+Japan, 2013, 26275.0, 1.20531E8, 232.89, Decrease, -17.63
+Japan, 2014, 25904.0, 1.20316E8, 229.90, Decrease, -2.99
+Japan, 2015, 24232.0, 1.20133832E8, 216.24, Decrease, -13.66
+Kazakhstan, 1990, 22108.0, 1.03797376E8, 221.95, N/A, N/A
+Kazakhstan, 1991, 3188.0, 1.48445E7, 334.48, Increase, 112.53
+Kazakhstan, 1992, 3135.0, 1.50602E7, 321.62, Decrease, -12.86
+Kazakhstan, 1993, 3525.0, 1.52307E7, 334.31, Increase, 12.69
+Kazakhstan, 1994, 3911.0, 1.52486E7, 370.80, Increase, 36.49
+Kazakhstan, 1995, 4132.0, 1.52231E7, 421.11, Increase, 50.31
+Kazakhstan, 1996, 4723.0, 1.47991E7, 457.89, Increase, 36.78
+Kazakhstan, 1997, 4808.0, 1.4471E7, 455.45, Decrease, -2.44
+Kazakhstan, 1998, 4558.0, 1.41469E7, 430.09, Decrease, -25.36
+Kazakhstan, 1999, 4294.0, 1.37925E7, 439.02, Increase, 8.93
+Kazakhstan, 2000, 4056.0, 1.3738847E7, 411.83, Decrease, -27.19
+Kazakhstan, 2001, 4474.0, 1.3686915E7, 429.71, Increase, 17.88
+Kazakhstan, 2002, 4342.0, 1.3695594E7, 418.34, Decrease, -11.37
+Kazakhstan, 2003, 4264.0, 1.3730982E7, 406.46, Decrease, -11.88
+Kazakhstan, 2004, 4412.0, 1.3769226E7, 416.86, Increase, 10.40
+Kazakhstan, 2005, 4301.0, 1.3836106E7, 407.14, Decrease, -9.72
+Kazakhstan, 2006, 3943.0, 1.3917369E7, 359.77, Decrease, -47.37
+Kazakhstan, 2007, 4116.0, 1.3998292E7, 377.64, Increase, 17.87
+Kazakhstan, 2008, 4152.0, 1.4081283E7, 375.95, Decrease, -1.69
+Kazakhstan, 2009, 3907.0, 1.4195621E7, 361.05, Decrease, -14.90
+Kazakhstan, 2010, 3742.0, 1.4515239E7, 322.67, Decrease, -38.38
+Kazakhstan, 2011, 3537.0, 1.4668368E7, 316.74, Decrease, -5.93
+Kazakhstan, 2012, 3275.0, 1.4831103E7, 286.15, Decrease, -30.59
+Kazakhstan, 2013, 3343.0, 1.5013423E7, 279.83, Decrease, -6.32
+Kazakhstan, 2014, 3356.0, 1.5226251E7, 286.76, Increase, 6.93
+Kazakhstan, 2015, 3057.0, 1.5449737E7, 253.71, Decrease, -33.05
+Kiribati, 1991, 2396.0, 1.0250765E7, 289.91, N/A, N/A
+Kiribati, 1992, 6.0, 62150.0, 123.21, Decrease, -166.70
+Kiribati, 1993, 8.0, 63168.0, 133.39, Increase, 10.18
+Kiribati, 1994, 11.0, 64271.0, 194.03, Increase, 60.64
+Kiribati, 1995, 6.0, 65446.0, 94.07, Decrease, -99.96
+Kiribati, 1996, 5.0, 66628.0, 90.22, Decrease, -3.85
+Kiribati, 1997, 4.0, 67913.0, 57.48, Decrease, -32.74
+Kiribati, 1998, 6.0, 69166.0, 84.19, Increase, 26.71
+Kiribati, 1999, 1.0, 70444.0, 13.60, Decrease, -70.59
+Kiribati, 2000, 0.0, 71823.0, 0.00, Decrease, -13.60
+Kiribati, 2001, 0.0, 73330.0, 0.00, Remain, 0.00
+Kuwait, 1985, 2.0, 717815.0, 1.33, N/A, N/A
+Kuwait, 1986, 19.0, 1498600.0, 12.41, Increase, 11.08
+Kuwait, 1987, 14.0, 1567400.0, 7.44, Decrease, -4.97
+Kuwait, 1993, 15.0, 1380800.0, 11.07, Increase, 3.63
+Kuwait, 1994, 19.0, 1306900.0, 13.63, Increase, 2.56
+Kuwait, 1995, 34.0, 1470500.0, 21.37, Increase, 7.74
+Kuwait, 1996, 24.0, 1532200.0, 11.54, Decrease, -9.83
+Kuwait, 1997, 33.0, 1587800.0, 20.50, Increase, 8.96
+Kuwait, 1998, 30.0, 1632083.0, 17.44, Decrease, -3.06
+Kuwait, 1999, 35.0, 1849483.0, 15.90, Decrease, -1.54
+Kuwait, 2000, 47.0, 1923056.0, 17.48, Increase, 1.58
+Kuwait, 2001, 31.0, 1994837.0, 13.21, Decrease, -4.27
+Kuwait, 2002, 35.0, 2068876.0, 11.86, Decrease, -1.35
+Kuwait, 2003, 42.0, 2168508.0, 12.82, Increase, 0.96
+Kuwait, 2004, 48.0, 1953526.0, 18.50, Increase, 5.68
+Kuwait, 2005, 42.0, 2000510.0, 15.83, Decrease, -2.67
+Kuwait, 2006, 51.0, 2100058.0, 17.43, Increase, 1.60
+Kuwait, 2007, 47.0, 2298331.0, 16.12, Decrease, -1.31
+Kuwait, 2008, 52.0, 3133296.0, 13.27, Decrease, -2.85
+Kuwait, 2009, 47.0, 3327323.0, 12.09, Decrease, -1.18
+Kuwait, 2010, 57.0, 3181565.0, 13.16, Increase, 1.07
+Kuwait, 2011, 47.0, 3297970.0, 13.32, Increase, 0.16
+Kuwait, 2012, 45.0, 3363235.0, 12.71, Decrease, -0.61
+Kuwait, 2013, 46.0, 3517071.0, 11.80, Decrease, -0.91
+Kuwait, 2014, 48.0, 3598719.0, 12.62, Increase, 0.82
+Kyrgyzstan, 1990, 161.0, 4479544.0, 36.45, N/A, N/A
+Kyrgyzstan, 1991, 546.0, 3774200.0, 246.45, Increase, 210.00
+Kyrgyzstan, 1992, 549.0, 3827900.0, 247.87, Increase, 1.42
+Kyrgyzstan, 1993, 484.0, 3856500.0, 219.59, Decrease, -28.28
+Kyrgyzstan, 1994, 566.0, 3862900.0, 259.26, Increase, 39.67
+Kyrgyzstan, 1995, 609.0, 3887500.0, 261.22, Increase, 1.96
+Kyrgyzstan, 1996, 569.0, 3944700.0, 230.63, Decrease, -30.59
+Kyrgyzstan, 1997, 504.0, 4016100.0, 211.23, Decrease, -19.40
+Kyrgyzstan, 1998, 506.0, 4092500.0, 192.15, Decrease, -19.08
+Kyrgyzstan, 1999, 501.0, 4194900.0, 182.29, Decrease, -9.86
+Kyrgyzstan, 2000, 551.0, 4325696.0, 189.70, Increase, 7.41
+Kyrgyzstan, 2001, 552.0, 4385776.0, 190.35, Increase, 0.65
+Kyrgyzstan, 2002, 541.0, 4435326.0, 189.06, Decrease, -1.29
+Kyrgyzstan, 2003, 537.0, 4480600.0, 166.91, Decrease, -22.15
+Kyrgyzstan, 2004, 469.0, 4527275.0, 135.54, Decrease, -31.37
+Kyrgyzstan, 2005, 468.0, 4570872.0, 146.54, Increase, 11.00
+Kyrgyzstan, 2006, 469.0, 4605384.0, 135.10, Decrease, -11.44
+Kyrgyzstan, 2007, 493.0, 4634654.0, 151.37, Increase, 16.27
+Kyrgyzstan, 2008, 447.0, 4657678.0, 119.32, Decrease, -32.05
+Kyrgyzstan, 2009, 476.0, 4776572.0, 135.23, Increase, 15.91
+Kyrgyzstan, 2010, 467.0, 4787583.0, 114.88, Decrease, -20.35
+Kyrgyzstan, 2011, 506.0, 4820394.0, 144.54, Increase, 29.66
+Kyrgyzstan, 2012, 458.0, 4864334.0, 124.98, Decrease, -19.56
+Kyrgyzstan, 2013, 536.0, 4930905.0, 143.20, Increase, 18.22
+Kyrgyzstan, 2014, 417.0, 5013563.0, 104.82, Decrease, -38.38
+Kyrgyzstan, 2015, 472.0, 5111955.0, 113.95, Increase, 9.13
+Latvia, 1995, 371.0, 3698020.0, 121.67, N/A, N/A
+Latvia, 1996, 1021.0, 2367700.0, 544.40, Increase, 422.73
+Latvia, 1997, 925.0, 2356300.0, 494.13, Decrease, -50.27
+Latvia, 1998, 885.0, 2347300.0, 491.70, Decrease, -2.43
+Latvia, 1999, 815.0, 2335200.0, 427.43, Decrease, -64.27
+Latvia, 2000, 776.0, 2312791.0, 427.93, Increase, 0.50
+Latvia, 2001, 756.0, 2254054.0, 444.96, Increase, 17.03
+Latvia, 2002, 719.0, 2225048.0, 389.79, Decrease, -55.17
+Latvia, 2003, 663.0, 2198371.0, 363.72, Decrease, -26.07
+Latvia, 2004, 596.0, 2173394.0, 356.66, Decrease, -7.06
+Latvia, 2005, 570.0, 2146705.0, 333.36, Decrease, -23.30
+Latvia, 2006, 558.0, 2121273.0, 307.29, Decrease, -26.07
+Latvia, 2007, 478.0, 2098658.0, 285.51, Decrease, -21.78
+Latvia, 2008, 460.0, 2074798.0, 300.36, Increase, 14.85
+Latvia, 2009, 520.0, 2043427.0, 320.09, Increase, 19.73
+Latvia, 2010, 513.0, 2005123.0, 307.75, Decrease, -12.34
+Latvia, 2011, 443.0, 1967495.0, 264.87, Decrease, -42.88
+Latvia, 2012, 438.0, 1938385.0, 289.58, Increase, 24.71
+Latvia, 2013, 423.0, 1918311.0, 252.28, Decrease, -37.30
+Latvia, 2014, 400.0, 1900133.0, 258.47, Increase, 6.19
+Latvia, 2015, 373.0, 1881491.0, 242.34, Decrease, -16.13
+Lithuania, 1995, 519.0, 2541223.0, 285.57, N/A, N/A
+Lithuania, 1996, 1707.0, 3376026.0, 645.70, Increase, 360.13
+Lithuania, 1997, 1717.0, 3365306.0, 594.85, Decrease, -50.85
+Lithuania, 1998, 1601.0, 3354067.0, 553.80, Decrease, -41.05
+Lithuania, 1999, 1578.0, 3338960.0, 576.07, Increase, 22.27
+Lithuania, 2000, 1550.0, 3319571.0, 561.42, Decrease, -14.65
+Lithuania, 2001, 1615.0, 3297338.0, 565.29, Increase, 3.87
+Lithuania, 2002, 1563.0, 3274769.0, 580.45, Increase, 15.16
+Lithuania, 2003, 1512.0, 3254590.0, 540.23, Decrease, -40.22
+Lithuania, 2004, 1459.0, 3231037.0, 532.79, Decrease, -7.44
+Lithuania, 2005, 1353.0, 3192481.0, 493.35, Decrease, -39.44
+Lithuania, 2006, 1318.0, 3143908.0, 486.54, Decrease, -6.81
+Lithuania, 2007, 1055.0, 3101142.0, 403.71, Decrease, -82.83
+Lithuania, 2008, 1039.0, 3063837.0, 412.20, Increase, 8.49
+Lithuania, 2009, 1108.0, 3027920.0, 430.56, Increase, 18.36
+Lithuania, 2010, 1117.0, 2982334.0, 429.56, Decrease, -1.00
+Lithuania, 2011, 995.0, 2914708.0, 386.88, Decrease, -42.68
+Lithuania, 2012, 1007.0, 2853289.0, 404.07, Increase, 17.19
+Lithuania, 2013, 970.0, 2816551.0, 397.14, Decrease, -6.93
+Lithuania, 2014, 1072.0, 2788832.0, 439.67, Increase, 42.53
+Lithuania, 2015, 906.0, 2762088.0, 390.85, Decrease, -48.82
+Lithuania, 2016, 966.0, 2833303.0, 422.42, Increase, 31.57
+Luxembourg, 1985, 685.0, 1882313.0, 330.67, N/A, N/A
+Luxembourg, 1986, 55.0, 344400.0, 244.51, Decrease, -86.16
+Luxembourg, 1987, 57.0, 346300.0, 203.52, Decrease, -40.99
+Luxembourg, 1988, 75.0, 349800.0, 243.47, Increase, 39.95
+Luxembourg, 1989, 69.0, 352500.0, 216.89, Decrease, -26.58
+Luxembourg, 1990, 69.0, 356200.0, 244.48, Increase, 27.59
+Luxembourg, 1991, 65.0, 359800.0, 222.04, Decrease, -22.44
+Luxembourg, 1992, 76.0, 364200.0, 278.53, Increase, 56.49
+Luxembourg, 1993, 64.0, 368600.0, 248.82, Decrease, -29.71
+Luxembourg, 1994, 65.0, 373400.0, 208.81, Decrease, -40.01
+Luxembourg, 1995, 72.0, 378500.0, 269.16, Increase, 60.35
+Luxembourg, 1996, 58.0, 383500.0, 194.64, Decrease, -74.52
+Luxembourg, 1997, 81.0, 388700.0, 258.69, Increase, 64.05
+Luxembourg, 1998, 75.0, 393471.0, 287.87, Increase, 29.18
+Luxembourg, 1999, 66.0, 399409.0, 206.74, Decrease, -81.13
+Luxembourg, 2000, 65.0, 405360.0, 195.54, Decrease, -11.20
+Luxembourg, 2001, 69.0, 412845.0, 242.76, Increase, 47.22
+Luxembourg, 2002, 69.0, 414245.0, 231.10, Decrease, -11.66
+Luxembourg, 2003, 84.0, 418953.0, 261.35, Increase, 30.25
+Luxembourg, 2004, 47.0, 425297.0, 158.11, Decrease, -103.24
+Luxembourg, 2005, 59.0, 432191.0, 181.29, Increase, 23.18
+Luxembourg, 2006, 47.0, 439652.0, 151.55, Decrease, -29.74
+Luxembourg, 2007, 72.0, 447161.0, 204.39, Increase, 52.84
+Luxembourg, 2008, 68.0, 455181.0, 151.70, Decrease, -52.69
+Luxembourg, 2009, 46.0, 463674.0, 120.85, Decrease, -30.85
+Luxembourg, 2010, 49.0, 472187.0, 114.72, Decrease, -6.13
+Luxembourg, 2011, 55.0, 482179.0, 143.93, Increase, 29.21
+Luxembourg, 2012, 56.0, 493938.0, 138.24, Decrease, -5.69
+Luxembourg, 2013, 44.0, 505168.0, 119.97, Decrease, -18.27
+Luxembourg, 2014, 50.0, 516662.0, 117.43, Decrease, -2.54
+Luxembourg, 2015, 63.0, 529457.0, 138.09, Increase, 20.66
+Macau, 1994, 61.0, 517658.0, 129.27, N/A, N/A
+Maldives, 2000, 20.0, 331986.0, 149.74, N/A, N/A
+Maldives, 2001, 2.0, 252677.0, 8.03, Decrease, -141.71
+Maldives, 2002, 3.0, 260566.0, 108.15, Increase, 100.12
+Maldives, 2003, 1.0, 268566.0, 4.15, Decrease, -104.00
+Maldives, 2004, 4.0, 276631.0, 15.52, Increase, 11.37
+Maldives, 2005, 2.0, 284720.0, 6.49, Decrease, -9.03
+Maldives, 2007, 5.0, 297599.0, 14.36, Increase, 7.87
+Maldives, 2008, 0.0, 309461.0, 0.00, Decrease, -14.36
+Maldives, 2010, 1.0, 321419.0, 1.99, Increase, 1.99
+Maldives, 2011, 2.0, 336139.0, 5.39, Increase, 3.40
+Malta, 1985, 1.0, 271992.0, 4.13, N/A, N/A
+Malta, 1986, 2.0, 307900.0, 8.24, Increase, 4.11
+Malta, 1987, 0.0, 316100.0, 0.00, Decrease, -8.24
+Malta, 1988, 7.0, 318100.0, 40.80, Increase, 40.80
+Malta, 1989, 14.0, 320900.0, 47.58, Increase, 6.78
+Malta, 1990, 15.0, 323900.0, 60.37, Increase, 12.79
+Malta, 1991, 11.0, 327300.0, 34.61, Decrease, -25.76
+Malta, 1992, 10.0, 330700.0, 30.10, Decrease, -4.51
+Malta, 1993, 18.0, 334200.0, 87.43, Increase, 57.33
+Malta, 1994, 16.0, 337800.0, 47.22, Decrease, -40.21
+Malta, 1995, 15.0, 341400.0, 64.71, Increase, 17.49
+Malta, 1996, 18.0, 344300.0, 51.48, Decrease, -13.23
+Malta, 1997, 11.0, 347400.0, 51.79, Increase, 0.31
+Malta, 1998, 8.0, 350500.0, 44.04, Decrease, -7.75
+Malta, 1999, 19.0, 353300.0, 57.97, Increase, 13.93
+Malta, 2000, 24.0, 357743.0, 79.82, Increase, 21.85
+Malta, 2001, 27.0, 365306.0, 90.53, Increase, 10.71
+Malta, 2002, 26.0, 371559.0, 71.94, Decrease, -18.59
+Malta, 2003, 22.0, 375108.0, 64.93, Decrease, -7.01
+Malta, 2004, 16.0, 378184.0, 60.33, Decrease, -4.60
+Malta, 2005, 21.0, 380301.0, 75.53, Increase, 15.20
+Malta, 2006, 24.0, 382364.0, 84.77, Increase, 9.24
+Malta, 2007, 27.0, 384670.0, 90.31, Increase, 5.54
+Malta, 2008, 21.0, 386980.0, 57.16, Decrease, -33.15
+Malta, 2009, 27.0, 389769.0, 81.28, Increase, 24.12
+Malta, 2010, 27.0, 391509.0, 77.70, Decrease, -3.58
+Malta, 2011, 32.0, 392869.0, 85.53, Increase, 7.83
+Malta, 2012, 17.0, 395639.0, 37.27, Decrease, -48.26
+Malta, 2013, 27.0, 399139.0, 68.27, Increase, 31.00
+Malta, 2014, 23.0, 402605.0, 61.26, Decrease, -7.01
+Malta, 2015, 37.0, 406611.0, 115.13, Increase, 53.87
+Mauritius, 1985, 87.0, 850047.0, 105.22, N/A, N/A
+Mauritius, 1986, 59.0, 885200.0, 98.19, Decrease, -7.03
+Mauritius, 1987, 95.0, 903000.0, 97.49, Decrease, -0.70
+Mauritius, 1988, 145.0, 913800.0, 178.03, Increase, 80.54
+Mauritius, 1989, 160.0, 924600.0, 238.68, Increase, 60.65
+Mauritius, 1990, 148.0, 928000.0, 216.30, Decrease, -22.38
+Mauritius, 1991, 139.0, 932100.0, 154.76, Decrease, -61.54
+Mauritius, 1992, 126.0, 936100.0, 185.52, Increase, 30.76
+Mauritius, 1993, 155.0, 947300.0, 207.67, Increase, 22.15
+Mauritius, 1994, 143.0, 960500.0, 178.50, Decrease, -29.17
+Mauritius, 1995, 113.0, 970200.0, 138.74, Decrease, -39.76
+Mauritius, 1996, 161.0, 983100.0, 196.57, Increase, 57.83
+Mauritius, 1997, 131.0, 998000.0, 143.65, Decrease, -52.92
+Mauritius, 1998, 150.0, 1012600.0, 172.78, Increase, 29.13
+Mauritius, 1999, 157.0, 1027800.0, 157.46, Decrease, -15.32
+Mauritius, 2000, 157.0, 1039437.0, 169.29, Increase, 11.83
+Mauritius, 2001, 113.0, 1054621.0, 117.01, Decrease, -52.28
+Mauritius, 2002, 126.0, 1068215.0, 135.55, Increase, 18.54
+Mauritius, 2003, 109.0, 1079364.0, 109.18, Decrease, -26.37
+Mauritius, 2004, 92.0, 1092913.0, 97.76, Decrease, -11.42
+Mauritius, 2005, 91.0, 1102326.0, 94.52, Decrease, -3.24
+Mauritius, 2006, 115.0, 1115901.0, 115.59, Increase, 21.07
+Mauritius, 2007, 132.0, 1125136.0, 177.09, Increase, 61.50
+Mauritius, 2008, 100.0, 1137106.0, 113.67, Decrease, -63.42
+Mauritius, 2009, 98.0, 1143347.0, 93.14, Decrease, -20.53
+Mauritius, 2010, 107.0, 1158761.0, 96.94, Increase, 3.80
+Mauritius, 2011, 111.0, 1162623.0, 125.04, Increase, 28.10
+Mauritius, 2012, 115.0, 1168462.0, 117.71, Decrease, -7.33
+Mauritius, 2013, 108.0, 1148732.0, 110.23, Decrease, -7.48
+Mauritius, 2014, 112.0, 1140752.0, 113.53, Increase, 3.30
+Mauritius, 2015, 106.0, 1143402.0, 100.89, Decrease, -12.64
+Mauritius, 2016, 138.0, 1340954.0, 115.84, Increase, 14.95
+Mexico, 1985, 1350.0, 6.1860556E7, 51.77, N/A, N/A
+Mexico, 1986, 1663.0, 6.8985104E7, 39.62, Decrease, -12.15
+Mexico, 1987, 1724.0, 6.78714E7, 45.85, Increase, 6.23
+Mexico, 1988, 1669.0, 6.9401104E7, 40.04, Decrease, -5.81
+Mexico, 1989, 1811.0, 7.1113E7, 43.11, Increase, 3.07
+Mexico, 1990, 1903.0, 7.2837E7, 48.16, Increase, 5.05
+Mexico, 1991, 2104.0, 7.4569904E7, 50.39, Increase, 2.23
+Mexico, 1992, 2207.0, 7.5098208E7, 49.40, Decrease, -0.99
+Mexico, 1993, 2333.0, 7.6587808E7, 52.58, Increase, 3.18
+Mexico, 1994, 2537.0, 7.8123504E7, 53.67, Increase, 1.09
+Mexico, 1995, 2865.0, 7.9662304E7, 58.53, Increase, 4.86
+Mexico, 1996, 2998.0, 8.301888E7, 59.21, Increase, 0.68
+Mexico, 1997, 3383.0, 8.5073472E7, 59.71, Increase, 0.50
+Mexico, 1998, 3296.0, 8.6549976E7, 56.00, Decrease, -3.71
+Mexico, 1999, 3302.0, 8.7995296E7, 56.00, Remain, 0.00
+Mexico, 2000, 3452.0, 8.9419888E7, 55.79, Decrease, -0.21
+Mexico, 2001, 3670.0, 9.079128E7, 56.54, Increase, 0.75
+Mexico, 2002, 3861.0, 9.213344E7, 63.73, Increase, 7.19
+Mexico, 2003, 3996.0, 9.3481328E7, 59.62, Decrease, -4.11
+Mexico, 2004, 4047.0, 9.4874656E7, 62.22, Increase, 2.60
+Mexico, 2005, 4291.0, 9.6354704E7, 62.49, Increase, 0.27
+Mexico, 2006, 4203.0, 9.805812E7, 60.88, Decrease, -1.61
+Mexico, 2007, 4287.0, 9.982636E7, 59.14, Decrease, -1.74
+Mexico, 2008, 4586.0, 1.0165648E8, 60.09, Increase, 0.95
+Mexico, 2009, 4958.0, 1.03503176E8, 62.93, Increase, 2.84
+Mexico, 2010, 4881.0, 1.05320504E8, 62.23, Decrease, -0.70
+Mexico, 2011, 5508.0, 1.07111864E8, 66.19, Increase, 3.96
+Mexico, 2012, 5376.0, 1.08814592E8, 63.30, Decrease, -2.89
+Mexico, 2013, 5647.0, 1.10467024E8, 65.00, Increase, 1.70
+Mexico, 2014, 6126.0, 1.12100328E8, 67.78, Increase, 2.78
+Mexico, 2015, 6276.0, 1.13737792E8, 68.77, Increase, 0.99
+Mongolia, 2016, 1263.0, 1.8956664E7, 175.71, N/A, N/A
+Montenegro, 2000, 6.0, 597199.0, 30.95, N/A, N/A
+Montenegro, 2001, 0.0, 578668.0, 0.00, Decrease, -30.95
+Montenegro, 2002, 0.0, 578668.0, 0.00, Remain, 0.00
+Montenegro, 2003, 0.0, 578922.0, 0.00, Remain, 0.00
+Montenegro, 2004, 0.0, 580323.0, 0.00, Remain, 0.00
+Montenegro, 2005, 106.0, 582022.0, 179.25, Increase, 179.25
+Montenegro, 2006, 12.0, 583753.0, 95.23, Decrease, -84.02
+Montenegro, 2007, 99.0, 586235.0, 163.26, Increase, 68.03
+Montenegro, 2008, 129.0, 588720.0, 348.89, Increase, 185.63
+Montenegro, 2009, 106.0, 590776.0, 261.26, Decrease, -87.63
+Netherlands, 1985, 1501.0, 1.2916431E7, 254.32, N/A, N/A
+Netherlands, 1986, 1586.0, 1.36809E7, 154.22, Decrease, -100.10
+Netherlands, 1987, 1614.0, 1.37602E7, 157.90, Increase, 3.68
+Netherlands, 1988, 1533.0, 1.3836E7, 150.59, Decrease, -7.31
+Netherlands, 1989, 1550.0, 1.39114E7, 148.23, Decrease, -2.36
+Netherlands, 1990, 1412.0, 1.40016E7, 127.03, Decrease, -21.20
+Netherlands, 1991, 1605.0, 1.41026E7, 145.91, Increase, 18.88
+Netherlands, 1992, 1594.0, 1.42059E7, 147.59, Increase, 1.68
+Netherlands, 1993, 1573.0, 1.43057E7, 142.98, Decrease, -4.61
+Netherlands, 1994, 1589.0, 1.43911E7, 136.13, Decrease, -6.85
+Netherlands, 1995, 1529.0, 1.44578E7, 132.63, Decrease, -3.50
+Netherlands, 1996, 1544.0, 1.4532E7, 126.26, Decrease, -6.37
+Netherlands, 1997, 1562.0, 1.46202E7, 135.34, Increase, 9.08
+Netherlands, 1998, 1529.0, 1.47144E7, 132.02, Decrease, -3.32
+Netherlands, 1999, 1538.0, 1.48131E7, 128.91, Decrease, -3.11
+Netherlands, 2000, 1504.0, 1.4917572E7, 119.33, Decrease, -9.58
+Netherlands, 2001, 1469.0, 1.5023552E7, 116.21, Decrease, -3.12
+Netherlands, 2002, 1573.0, 1.5117016E7, 121.51, Increase, 5.30
+Netherlands, 2003, 1499.0, 1.5189824E7, 114.99, Decrease, -6.52
+Netherlands, 2004, 1520.0, 1.5248645E7, 112.15, Decrease, -2.84
+Netherlands, 2005, 1589.0, 1.5300092E7, 116.67, Increase, 4.52
+Netherlands, 2006, 1515.0, 1.5347336E7, 110.81, Decrease, -5.86
+Netherlands, 2007, 1375.0, 1.540289E7, 103.31, Decrease, -7.50
+Netherlands, 2008, 1431.0, 1.5484637E7, 100.62, Decrease, -2.69
+Netherlands, 2009, 1511.0, 1.5580434E7, 105.36, Increase, 4.74
+Netherlands, 2010, 1620.0, 1.5668247E7, 113.73, Increase, 8.37
+Netherlands, 2011, 1647.0, 1.5747793E7, 112.61, Decrease, -1.12
+Netherlands, 2012, 1741.0, 1.581546E7, 117.17, Increase, 4.56
+Netherlands, 2013, 1834.0, 1.587363E7, 122.01, Increase, 4.84
+Netherlands, 2014, 1849.0, 1.5899508E7, 123.62, Increase, 1.61
+Netherlands, 2015, 1847.0, 1.5993675E7, 123.31, Decrease, -0.31
+Netherlands, 2016, 2070.0, 1.5532858E7, 159.19, Increase, 35.88
+New Zealand, 1985, 338.0, 3025800.0, 153.64, N/A, N/A
+New Zealand, 1986, 414.0, 3026100.0, 178.67, Increase, 25.03
+New Zealand, 1987, 463.0, 3047100.0, 210.52, Increase, 31.85
+New Zealand, 1988, 484.0, 3055200.0, 205.03, Decrease, -5.49
+New Zealand, 1989, 465.0, 3063800.0, 190.62, Decrease, -14.41
+New Zealand, 1990, 455.0, 3089400.0, 186.57, Decrease, -4.05
+New Zealand, 1991, 474.0, 3203900.0, 175.48, Decrease, -11.09
+New Zealand, 1992, 493.0, 3235600.0, 183.59, Increase, 8.11
+New Zealand, 1993, 443.0, 3273200.0, 163.98, Decrease, -19.61
+New Zealand, 1994, 512.0, 3319500.0, 198.63, Increase, 34.65
+New Zealand, 1995, 545.0, 3373800.0, 199.42, Increase, 0.79
+New Zealand, 1996, 540.0, 3432500.0, 195.13, Decrease, -4.29
+New Zealand, 1997, 562.0, 3470200.0, 198.28, Increase, 3.15
+New Zealand, 1998, 574.0, 3502800.0, 201.07, Increase, 2.79
+New Zealand, 1999, 516.0, 3549300.0, 176.80, Decrease, -24.27
+New Zealand, 2000, 458.0, 3573690.0, 157.54, Decrease, -19.26
+New Zealand, 2001, 508.0, 3599090.0, 179.90, Increase, 22.36
+New Zealand, 2002, 467.0, 3659190.0, 152.03, Decrease, -27.87
+New Zealand, 2003, 519.0, 3729420.0, 172.35, Increase, 20.32
+New Zealand, 2004, 495.0, 3802510.0, 163.41, Decrease, -8.94
+New Zealand, 2005, 514.0, 3849280.0, 157.93, Decrease, -5.48
+New Zealand, 2006, 527.0, 3898600.0, 156.74, Decrease, -1.19
+New Zealand, 2007, 494.0, 3935450.0, 148.19, Decrease, -8.55
+New Zealand, 2008, 520.0, 3968450.0, 151.78, Increase, 3.59
+New Zealand, 2009, 512.0, 4009980.0, 153.00, Increase, 1.22
+New Zealand, 2010, 536.0, 4055470.0, 152.62, Decrease, -0.38
+New Zealand, 2011, 493.0, 4090460.0, 142.82, Decrease, -9.80
+New Zealand, 2012, 549.0, 4120870.0, 158.03, Increase, 15.21
+New Zealand, 2013, 513.0, 4129770.0, 144.55, Decrease, -13.48
+Nicaragua, 2010, 351.0, 5107427.0, 88.74, N/A, N/A
+Nicaragua, 2011, 369.0, 5177921.0, 89.55, Increase, 0.81
+Nicaragua, 2012, 316.0, 5251443.0, 72.29, Decrease, -17.26
+Nicaragua, 2013, 351.0, 5326935.0, 80.97, Increase, 8.68
+Nicaragua, 2014, 311.0, 5402424.0, 71.40, Decrease, -9.57
+Nicaragua, 2015, 315.0, 5476483.0, 69.87, Decrease, -1.53
+Norway, 1986, 579.0, 3911700.0, 163.62, N/A, N/A
+Norway, 1987, 649.0, 3929500.0, 191.56, Increase, 27.94
+Norway, 1988, 708.0, 3946600.0, 208.50, Increase, 16.94
+Norway, 1989, 660.0, 3955800.0, 197.89, Decrease, -10.61
+Norway, 1990, 659.0, 3961300.0, 191.31, Decrease, -6.58
+Norway, 1991, 675.0, 3972600.0, 194.82, Increase, 3.51
+Norway, 1992, 616.0, 3989800.0, 181.64, Decrease, -13.18
+Norway, 1993, 590.0, 4010500.0, 178.05, Decrease, -3.59
+Norway, 1994, 531.0, 4033300.0, 150.53, Decrease, -27.52
+Norway, 1995, 548.0, 4055900.0, 156.35, Increase, 5.82
+Norway, 1996, 517.0, 4078000.0, 153.93, Decrease, -2.42
+Norway, 1997, 533.0, 4102100.0, 158.61, Increase, 4.68
+Norway, 1998, 548.0, 4129400.0, 153.66, Decrease, -4.95
+Norway, 1999, 583.0, 4159745.0, 163.33, Increase, 9.67
+Norway, 2000, 541.0, 4168315.0, 150.33, Decrease, -13.00
+Norway, 2001, 549.0, 4215103.0, 154.29, Increase, 3.96
+Norway, 2002, 494.0, 4243689.0, 141.00, Decrease, -13.29
+Norway, 2003, 502.0, 4273124.0, 138.08, Decrease, -2.92
+Norway, 2004, 529.0, 4301960.0, 141.37, Increase, 3.29
+Norway, 2005, 533.0, 4335092.0, 142.09, Increase, 0.72
+Norway, 2006, 532.0, 4372103.0, 142.67, Increase, 0.58
+Norway, 2007, 485.0, 4417369.0, 127.77, Decrease, -14.90
+Norway, 2008, 505.0, 4472089.0, 132.03, Increase, 4.26
+Norway, 2009, 573.0, 4527536.0, 145.74, Increase, 13.71
+Norway, 2010, 548.0, 4582885.0, 136.43, Decrease, -9.31
+Norway, 2011, 598.0, 4643300.0, 146.49, Increase, 10.06
+Norway, 2012, 515.0, 4706585.0, 126.00, Decrease, -20.49
+Norway, 2013, 554.0, 4767605.0, 127.01, Increase, 1.01
+Norway, 2014, 548.0, 4827178.0, 127.23, Increase, 0.22
+Norway, 2015, 590.0, 4882909.0, 136.43, Increase, 9.20
+Oman, 2009, 13.0, 2607549.0, 21.19, N/A, N/A
+Oman, 2010, 13.0, 2748440.0, 3.80, Decrease, -17.39
+Oman, 2014, 7.0, 3631098.0, 1.51, Decrease, -2.29
+Panama, 1985, 56.0, 1899700.0, 51.06, N/A, N/A
+Panama, 1986, 82.0, 1939900.0, 60.91, Increase, 9.85
+Panama, 1987, 85.0, 1980800.0, 67.06, Increase, 6.15
+Panama, 1988, 87.0, 2064310.0, 60.19, Decrease, -6.87
+Panama, 1989, 70.0, 2112479.0, 55.29, Decrease, -4.90
+Panama, 1996, 113.0, 2472851.0, 66.38, Increase, 11.09
+Panama, 1997, 145.0, 2526210.0, 83.19, Increase, 16.81
+Panama, 1998, 148.0, 2579433.0, 76.69, Decrease, -6.50
+Panama, 1999, 143.0, 2633348.0, 77.63, Increase, 0.94
+Panama, 2000, 143.0, 2688510.0, 85.58, Increase, 7.95
+Panama, 2001, 162.0, 2742982.0, 86.77, Increase, 1.19
+Panama, 2002, 160.0, 2800046.0, 78.94, Decrease, -7.83
+Panama, 2003, 195.0, 2858964.0, 97.24, Increase, 18.30
+Panama, 2004, 186.0, 2918453.0, 81.76, Decrease, -15.48
+Panama, 2005, 172.0, 2977595.0, 77.81, Decrease, -3.95
+Panama, 2006, 185.0, 3037959.0, 91.63, Increase, 13.82
+Panama, 2007, 171.0, 3097138.0, 71.90, Decrease, -19.73
+Panama, 2008, 186.0, 3155636.0, 73.30, Increase, 1.40
+Panama, 2009, 177.0, 3214513.0, 68.29, Decrease, -5.01
+Panama, 2010, 151.0, 3274415.0, 64.00, Decrease, -4.29
+Panama, 2011, 144.0, 3334191.0, 62.73, Decrease, -1.27
+Panama, 2012, 135.0, 3395244.0, 55.52, Decrease, -7.21
+Panama, 2013, 130.0, 3457387.0, 49.31, Decrease, -6.21
+Panama, 2014, 147.0, 3520213.0, 55.98, Increase, 6.67
+Panama, 2015, 110.0, 3583382.0, 44.90, Decrease, -11.08
+Paraguay, 1985, 63.0, 3077314.0, 39.42, N/A, N/A
+Paraguay, 1986, 56.0, 3167535.0, 26.76, Decrease, -12.66
+Paraguay, 1987, 62.0, 3261975.0, 36.60, Increase, 9.84
+Paraguay, 1989, 67.0, 3459176.0, 35.33, Decrease, -1.27
+Paraguay, 1990, 99.0, 3560229.0, 45.01, Increase, 9.68
+Paraguay, 1991, 75.0, 3662812.0, 27.14, Decrease, -17.87
+Paraguay, 1994, 108.0, 3972517.0, 44.46, Increase, 17.32
+Paraguay, 1995, 118.0, 4076758.0, 40.33, Decrease, -4.13
+Paraguay, 1996, 99.0, 4181422.0, 33.46, Decrease, -6.87
+Paraguay, 1997, 126.0, 4284973.0, 35.58, Increase, 2.12
+Paraguay, 1998, 138.0, 4388094.0, 48.55, Increase, 12.97
+Paraguay, 1999, 161.0, 4492220.0, 44.42, Decrease, -4.13
+Paraguay, 2000, 154.0, 4598158.0, 42.78, Decrease, -1.64
+Paraguay, 2001, 152.0, 4701314.0, 56.52, Increase, 13.74
+Paraguay, 2002, 177.0, 4809921.0, 43.45, Decrease, -13.07
+Paraguay, 2003, 174.0, 4920489.0, 51.35, Increase, 7.90
+Paraguay, 2004, 234.0, 5027301.0, 65.44, Increase, 14.09
+Paraguay, 2005, 239.0, 5126457.0, 62.81, Decrease, -2.63
+Paraguay, 2006, 251.0, 5223460.0, 65.57, Increase, 2.76
+Paraguay, 2007, 227.0, 5307169.0, 62.51, Decrease, -3.06
+Paraguay, 2008, 222.0, 5382169.0, 58.32, Decrease, -4.19
+Paraguay, 2009, 283.0, 5456220.0, 67.33, Increase, 9.01
+Paraguay, 2010, 223.0, 5534703.0, 54.56, Decrease, -12.77
+Paraguay, 2011, 298.0, 5610499.0, 67.83, Increase, 13.27
+Paraguay, 2012, 275.0, 5695283.0, 63.30, Decrease, -4.53
+Paraguay, 2013, 323.0, 5786207.0, 75.39, Increase, 12.09
+Paraguay, 2014, 379.0, 5877594.0, 72.15, Decrease, -3.24
+Philippines, 1992, 347.0, 5.5304688E7, 9.81, N/A, N/A
+Philippines, 1993, 846.0, 5.6781568E7, 21.97, Increase, 12.16
+Philippines, 1997, 814.0, 6.2772696E7, 20.24, Decrease, -1.73
+Philippines, 1998, 883.0, 6.4252612E7, 22.05, Increase, 1.81
+Philippines, 1999, 1043.0, 6.57402E7, 24.88, Increase, 2.83
+Philippines, 2000, 1403.0, 6.7243472E7, 32.21, Increase, 7.33
+Philippines, 2001, 1204.0, 6.8738096E7, 27.08, Decrease, -5.13
+Philippines, 2002, 1301.0, 7.0256448E7, 28.54, Increase, 1.46
+Philippines, 2003, 1544.0, 7.1781496E7, 33.41, Increase, 4.87
+Philippines, 2006, 1788.0, 7.6435752E7, 36.66, Increase, 3.25
+Philippines, 2007, 1698.0, 7.8008656E7, 29.17, Decrease, -7.49
+Philippines, 2008, 1820.0, 7.9595896E7, 33.05, Increase, 3.88
+Philippines, 2009, 2074.0, 8.1193856E7, 34.89, Increase, 1.84
+Philippines, 2010, 2116.0, 8.2761E7, 36.96, Increase, 2.07
+Philippines, 2011, 2449.0, 8.4201768E7, 44.91, Increase, 7.95
+Poland, 1990, 4970.0, 3.51648E7, 172.64, N/A, N/A
+Poland, 1991, 5316.0, 3.53963E7, 180.27, Increase, 7.63
+Poland, 1992, 5713.0, 3.56054E7, 194.43, Increase, 14.16
+Poland, 1993, 5624.0, 3.57926E7, 187.85, Decrease, -6.58
+Poland, 1994, 5519.0, 3.596E7, 185.96, Decrease, -1.89
+Poland, 1995, 5499.0, 3.61049E7, 181.70, Decrease, -4.26
+Poland, 1996, 5446.0, 3.62433E7, 178.21, Decrease, -3.49
+Poland, 1999, 5779.0, 3.65752E7, 184.15, Increase, 5.94
+Poland, 2000, 5841.0, 3.6233348E7, 191.01, Increase, 6.86
+Poland, 2001, 5855.0, 3.6295392E7, 180.65, Decrease, -10.36
+Poland, 2002, 5925.0, 3.6347496E7, 183.27, Increase, 2.62
+Poland, 2003, 5836.0, 3.6353776E7, 180.15, Decrease, -3.12
+Poland, 2004, 6072.0, 3.6371596E7, 187.74, Increase, 7.59
+Poland, 2005, 6045.0, 3.637136E7, 186.04, Decrease, -1.70
+Poland, 2006, 5805.0, 3.6348232E7, 182.85, Decrease, -3.19
+Poland, 2007, 5284.0, 3.6310844E7, 166.47, Decrease, -16.38
+Poland, 2008, 5682.0, 3.6262712E7, 177.38, Increase, 10.91
+Poland, 2009, 6477.0, 3.6223404E7, 197.10, Increase, 19.72
+Poland, 2010, 6357.0, 3.6027792E7, 190.64, Decrease, -6.46
+Poland, 2011, 6113.0, 3.600824E7, 183.86, Decrease, -6.78
+Poland, 2012, 6368.0, 3.6013448E7, 192.37, Increase, 8.51
+Poland, 2013, 6218.0, 3.6023696E7, 187.59, Decrease, -4.78
+Poland, 2014, 5934.0, 3.6059628E7, 178.30, Decrease, -9.29
+Poland, 2015, 5420.0, 3.6086576E7, 166.99, Decrease, -11.31
+Portugal, 1985, 983.0, 9313930.0, 164.82, N/A, N/A
+Portugal, 1986, 941.0, 9349248.0, 165.53, Increase, 0.71
+Portugal, 1987, 960.0, 9378989.0, 171.33, Increase, 5.80
+Portugal, 1988, 819.0, 9400481.0, 137.75, Decrease, -33.58
+Portugal, 1989, 747.0, 9415270.0, 130.32, Decrease, -7.43
+Portugal, 1990, 870.0, 9420814.0, 150.21, Increase, 19.89
+Portugal, 1991, 942.0, 9410507.0, 165.16, Increase, 14.95
+Portugal, 1992, 866.0, 9401557.0, 148.30, Decrease, -16.86
+Portugal, 1993, 780.0, 9410082.0, 125.83, Decrease, -22.47
+Portugal, 1994, 762.0, 9436009.0, 123.82, Decrease, -2.01
+Portugal, 1995, 809.0, 9473844.0, 128.93, Increase, 5.11
+Portugal, 1996, 653.0, 9515960.0, 115.77, Decrease, -13.16
+Portugal, 1997, 628.0, 9564579.0, 102.18, Decrease, -13.59
+Portugal, 1998, 556.0, 9617110.0, 87.06, Decrease, -15.12
+Portugal, 1999, 545.0, 9671357.0, 89.46, Increase, 2.40
+Portugal, 2000, 524.0, 9740085.0, 85.88, Decrease, -3.58
+Portugal, 2001, 761.0, 9809536.0, 115.73, Increase, 29.85
+Portugal, 2002, 1210.0, 9859832.0, 171.83, Increase, 56.10
+Portugal, 2003, 1156.0, 9895009.0, 166.46, Decrease, -5.37
+Portugal, 2007, 1020.0, 1.0005713E7, 143.55, Decrease, -22.91
+Portugal, 2008, 1038.0, 1.003064E7, 141.02, Decrease, -2.53
+Portugal, 2009, 1025.0, 1.0049918E7, 139.70, Decrease, -1.32
+Portugal, 2010, 1099.0, 1.0066628E7, 148.84, Increase, 9.14
+Portugal, 2011, 1017.0, 1.0062815E7, 127.86, Decrease, -20.98
+Portugal, 2012, 1076.0, 1.0029396E7, 139.40, Increase, 11.54
+Portugal, 2013, 1052.0, 9985074.0, 132.73, Decrease, -6.67
+Portugal, 2014, 1222.0, 9944433.0, 153.89, Increase, 21.16
+Puerto Rico, 1985, 269.0, 3082500.0, 154.61, N/A, N/A
+Puerto Rico, 1986, 310.0, 3143200.0, 178.23, Increase, 23.62
+Puerto Rico, 1987, 272.0, 3189400.0, 143.76, Decrease, -34.47
+Puerto Rico, 1988, 314.0, 3235600.0, 161.69, Increase, 17.93
+Puerto Rico, 1989, 327.0, 3283800.0, 169.54, Increase, 7.85
+Puerto Rico, 1990, 371.0, 3204000.0, 181.58, Increase, 12.04
+Puerto Rico, 1991, 355.0, 3237200.0, 184.81, Increase, 3.23
+Puerto Rico, 1992, 314.0, 3287900.0, 135.31, Decrease, -49.50
+Puerto Rico, 1993, 345.0, 3312472.0, 151.25, Increase, 15.94
+Puerto Rico, 1994, 355.0, 3343624.0, 147.28, Decrease, -3.97
+Puerto Rico, 1995, 289.0, 3375154.0, 120.87, Decrease, -26.41
+Puerto Rico, 1996, 331.0, 3401823.0, 139.81, Increase, 18.94
+Puerto Rico, 1997, 273.0, 3432757.0, 99.26, Decrease, -40.55
+Puerto Rico, 1998, 321.0, 3464834.0, 131.07, Increase, 31.81
+Puerto Rico, 1999, 289.0, 3492721.0, 117.31, Decrease, -13.76
+Puerto Rico, 2000, 305.0, 3511947.0, 108.26, Decrease, -9.05
+Puerto Rico, 2001, 289.0, 3522212.0, 106.89, Decrease, -1.37
+Puerto Rico, 2002, 239.0, 3523951.0, 91.59, Decrease, -15.30
+Puerto Rico, 2003, 262.0, 3519026.0, 96.99, Increase, 5.40
+Puerto Rico, 2004, 279.0, 3511462.0, 108.95, Increase, 11.96
+Puerto Rico, 2005, 289.0, 3504599.0, 105.11, Decrease, -3.84
+Puerto Rico, 2006, 265.0, 3499036.0, 95.30, Decrease, -9.81
+Puerto Rico, 2007, 271.0, 3493631.0, 93.08, Decrease, -2.22
+Puerto Rico, 2008, 300.0, 3488811.0, 107.08, Increase, 14.00
+Puerto Rico, 2009, 330.0, 3484474.0, 124.90, Increase, 17.82
+Puerto Rico, 2010, 286.0, 3480379.0, 103.84, Decrease, -21.06
+Puerto Rico, 2011, 258.0, 3475298.0, 90.55, Decrease, -13.29
+Puerto Rico, 2012, 248.0, 3472672.0, 87.10, Decrease, -3.45
+Puerto Rico, 2013, 241.0, 3471665.0, 90.59, Increase, 3.49
+Puerto Rico, 2014, 220.0, 3470956.0, 77.09, Decrease, -13.50
+Puerto Rico, 2015, 226.0, 3469521.0, 85.58, Increase, 8.49
+Qatar, 1995, 0.0, 463449.0, 0.00, N/A, N/A
+Qatar, 2001, 23.0, 539483.0, 27.30, Increase, 27.30
+Qatar, 2004, 21.0, 697191.0, 15.25, Decrease, -12.05
+Qatar, 2005, 17.0, 796618.0, 18.80, Increase, 3.55
+Qatar, 2006, 29.0, 940090.0, 87.30, Increase, 68.50
+Qatar, 2007, 41.0, 1115479.0, 28.61, Decrease, -58.69
+Qatar, 2008, 33.0, 1310465.0, 13.55, Decrease, -15.06
+Qatar, 2009, 44.0, 1506649.0, 19.90, Increase, 6.35
+Qatar, 2010, 47.0, 1689592.0, 12.83, Decrease, -7.07
+Qatar, 2011, 50.0, 1854081.0, 18.85, Increase, 6.02
+Qatar, 2012, 43.0, 2003149.0, 13.27, Decrease, -5.58
+Qatar, 2013, 37.0, 2135349.0, 8.23, Decrease, -5.04
+Qatar, 2014, 55.0, 2251682.0, 18.99, Increase, 10.76
+Qatar, 2015, 66.0, 2354147.0, 18.84, Decrease, -0.15
+Republic of Korea, 1985, 101.0, 1.0605521E7, 17.21, N/A, N/A
+Republic of Korea, 1986, 3682.0, 3.66644E7, 146.49, Increase, 129.28
+Republic of Korea, 1987, 3474.0, 3.74459E7, 143.70, Decrease, -2.79
+Republic of Korea, 1988, 3285.0, 3.8026E7, 127.86, Decrease, -15.84
+Republic of Korea, 1989, 2958.0, 3.85271E7, 114.83, Decrease, -13.03
+Republic of Korea, 1990, 3028.0, 3.89857E7, 121.54, Increase, 6.71
+Republic of Korea, 1991, 3161.0, 3.94648E7, 120.59, Decrease, -0.95
+Republic of Korea, 1992, 3076.0, 3.98614E7, 116.40, Decrease, -4.19
+Republic of Korea, 1993, 3531.0, 4.0257E7, 127.36, Increase, 10.96
+Republic of Korea, 1994, 4133.0, 4.06015E7, 159.76, Increase, 32.40
+Republic of Korea, 1995, 4214.0, 4.08915E7, 165.50, Increase, 5.74
+Republic of Korea, 1996, 4862.0, 4.19031E7, 179.95, Increase, 14.45
+Republic of Korea, 1997, 5843.0, 4.2382E7, 216.61, Increase, 36.66
+Republic of Korea, 1998, 6032.0, 4.28839E7, 227.08, Increase, 10.47
+Republic of Korea, 1999, 8557.0, 4.34001E7, 301.93, Increase, 74.85
+Republic of Korea, 2000, 7044.0, 4.38669E7, 256.57, Decrease, -45.36
+Republic of Korea, 2001, 6448.0, 4.4327408E7, 248.73, Decrease, -7.84
+Republic of Korea, 2002, 6908.0, 4.4764396E7, 273.44, Increase, 24.71
+Republic of Korea, 2003, 8613.0, 4.5140232E7, 361.09, Increase, 87.65
+Republic of Korea, 2004, 10908.0, 4.5453296E7, 454.41, Increase, 93.32
+Republic of Korea, 2005, 11490.0, 4.5771088E7, 469.64, Increase, 15.23
+Republic of Korea, 2006, 12005.0, 4.6076688E7, 478.89, Increase, 9.25
+Republic of Korea, 2007, 10671.0, 4.6324236E7, 421.03, Decrease, -57.86
+Republic of Korea, 2008, 12170.0, 4.658752E7, 466.47, Increase, 45.44
+Republic of Korea, 2009, 12890.0, 4.6870072E7, 453.39, Decrease, -13.08
+Republic of Korea, 2010, 15382.0, 4.7120756E7, 518.96, Increase, 65.57
+Republic of Korea, 2011, 15553.0, 4.7342656E7, 518.10, Decrease, -0.86
+Republic of Korea, 2012, 15898.0, 4.7590776E7, 514.82, Decrease, -3.28
+Republic of Korea, 2013, 14148.0, 4.7846776E7, 442.91, Decrease, -71.91
+Republic of Korea, 2014, 14422.0, 4.807732E7, 428.44, Decrease, -14.47
+Republic of Korea, 2015, 13832.0, 4.8297624E7, 385.31, Decrease, -43.13
+Romania, 1989, 13499.0, 4.7520772E7, 388.94, N/A, N/A
+Romania, 1990, 2531.0, 2.12881E7, 157.88, Decrease, -231.06
+Romania, 1991, 2074.0, 2.13398E7, 125.66, Decrease, -32.22
+Romania, 1992, 2161.0, 2.13966E7, 133.41, Increase, 7.75
+Romania, 1993, 2652.0, 2.11866E7, 164.30, Increase, 30.89
+Romania, 1994, 2781.0, 2.12657E7, 162.49, Decrease, -1.81
+Romania, 1995, 2876.0, 2.13423E7, 172.16, Increase, 9.67
+Romania, 1996, 2795.0, 2.13263E7, 156.32, Decrease, -15.84
+Romania, 1997, 2831.0, 2.13068E7, 160.21, Increase, 3.89
+Romania, 1998, 2858.0, 2.13059E7, 161.55, Increase, 1.34
+Romania, 1999, 2858.0, 2.12704E7, 162.60, Increase, 1.05
+Romania, 2000, 2726.0, 2.11963E7, 157.72, Decrease, -4.88
+Romania, 2001, 2838.0, 2.1187216E7, 159.39, Increase, 1.67
+Romania, 2002, 2735.0, 2.1107856E7, 150.35, Decrease, -9.04
+Romania, 2003, 3051.0, 2.0571462E7, 172.53, Increase, 22.18
+Romania, 2004, 2894.0, 2.0538504E7, 159.80, Decrease, -12.73
+Romania, 2005, 2710.0, 2.0491956E7, 150.48, Decrease, -9.32
+Romania, 2006, 2602.0, 2.0527412E7, 145.94, Decrease, -4.54
+Romania, 2007, 2722.0, 2.0476194E7, 149.25, Increase, 3.31
+Romania, 2008, 2434.0, 2.044396E7, 136.43, Decrease, -12.82
+Romania, 2009, 2472.0, 2.0405664E7, 140.45, Increase, 4.02
+Romania, 2010, 2578.0, 2.0382832E7, 143.28, Increase, 2.83
+Romania, 2011, 2769.0, 2.0340646E7, 150.31, Increase, 7.03
+Romania, 2012, 2533.0, 2.0284716E7, 138.52, Decrease, -11.79
+Romania, 2013, 2493.0, 1.903316E7, 141.86, Increase, 3.34
+Romania, 2014, 2407.0, 1.8997968E7, 137.98, Decrease, -3.88
+Romania, 2015, 2210.0, 1.8940288E7, 131.13, Decrease, -6.85
+Romania, 2016, 2318.0, 1.8888974E7, 141.75, Increase, 10.62
+Russian Federation, 1989, 5368.0, 5.635836E7, 141.64, N/A, N/A
+Russian Federation, 1990, 38228.0, 1.35743184E8, 401.87, Increase, 260.23
+Russian Federation, 1991, 39190.0, 1.36818704E8, 400.50, Decrease, -1.37
+Russian Federation, 1992, 39837.0, 1.37856704E8, 401.36, Increase, 0.86
+Russian Federation, 1993, 46940.0, 1.38239584E8, 447.08, Increase, 45.72
+Russian Federation, 1994, 56815.0, 1.38282E8, 530.28, Increase, 83.20
+Russian Federation, 1995, 62058.0, 1.388216E8, 572.71, Increase, 42.43
+Russian Federation, 1996, 60465.0, 1.39046992E8, 546.03, Decrease, -26.68
+Russian Federation, 1997, 57572.0, 1.38970688E8, 526.30, Decrease, -19.73
+Russian Federation, 1998, 54667.0, 1.38768896E8, 506.57, Decrease, -19.73
+Russian Federation, 1999, 52150.0, 1.38491296E8, 479.60, Decrease, -26.97
+Russian Federation, 2000, 57374.0, 1.38042688E8, 512.97, Increase, 33.37
+Russian Federation, 2001, 57032.0, 1.37407792E8, 507.47, Decrease, -5.50
+Russian Federation, 2002, 56587.0, 1.36622624E8, 500.63, Decrease, -6.84
+Russian Federation, 2003, 54348.0, 1.36731328E8, 480.14, Decrease, -20.49
+Russian Federation, 2004, 51223.0, 1.36540144E8, 466.57, Decrease, -13.57
+Russian Federation, 2005, 48781.0, 1.36040128E8, 445.18, Decrease, -21.39
+Russian Federation, 2006, 45337.0, 1.35113696E8, 417.51, Decrease, -27.67
+Russian Federation, 2007, 42617.0, 1.3431208E8, 402.74, Decrease, -14.77
+Russian Federation, 2008, 40699.0, 1.3368744E8, 385.19, Decrease, -17.55
+Russian Federation, 2009, 37909.0, 1.33311264E8, 366.64, Decrease, -18.55
+Russian Federation, 2010, 36585.0, 1.33852584E8, 345.95, Decrease, -20.69
+Russian Federation, 2011, 32942.0, 1.33951248E8, 317.13, Decrease, -28.82
+Russian Federation, 2012, 30634.0, 1.33772664E8, 298.02, Decrease, -19.11
+Russian Federation, 2013, 29015.0, 1.33844992E8, 281.01, Decrease, -17.01
+Russian Federation, 2014, 28162.0, 1.34713952E8, 267.97, Decrease, -13.04
+Russian Federation, 2015, 26065.0, 1.33892784E8, 256.70, Decrease, -11.27
+Saint Kitts and Nevis, 1990, 22990.0, 1.06090576E8, 206.10, N/A, N/A
+Saint Kitts and Nevis, 1991, 0.0, 39100.0, 0.00, Decrease, -206.10
+Saint Kitts and Nevis, 1992, 0.0, 39100.0, 0.00, Remain, 0.00
+Saint Lucia, 1986, 0.0, 77600.0, 0.00, N/A, N/A
+Saint Lucia, 1987, 7.0, 109700.0, 73.65, Increase, 73.65
+Saint Lucia, 1988, 11.0, 112400.0, 141.02, Increase, 67.37
+Saint Lucia, 1989, 10.0, 113117.0, 183.23, Increase, 42.21
+Saint Lucia, 1990, 7.0, 118210.0, 81.95, Decrease, -101.28
+Saint Lucia, 1991, 3.0, 120685.0, 26.89, Decrease, -55.06
+Saint Lucia, 1992, 8.0, 122533.0, 118.81, Increase, 91.92
+Saint Lucia, 1993, 8.0, 124219.0, 76.06, Decrease, -42.75
+Saint Lucia, 1994, 12.0, 125881.0, 104.63, Increase, 28.57
+Saint Lucia, 1995, 4.0, 127712.0, 31.53, Decrease, -73.10
+Saint Lucia, 1996, 10.0, 130166.0, 81.51, Increase, 49.98
+Saint Lucia, 1997, 7.0, 132383.0, 60.76, Decrease, -20.75
+Saint Lucia, 1998, 7.0, 134739.0, 102.93, Increase, 42.17
+Saint Lucia, 1999, 10.0, 137144.0, 132.78, Increase, 29.85
+Saint Lucia, 2000, 7.0, 139476.0, 66.96, Decrease, -65.82
+Saint Lucia, 2001, 15.0, 141635.0, 205.40, Increase, 138.44
+Saint Lucia, 2002, 8.0, 143623.0, 65.07, Decrease, -140.33
+Saint Lucia, 2003, 12.0, 145527.0, 186.85, Increase, 121.78
+Saint Lucia, 2004, 7.0, 147358.0, 114.63, Decrease, -72.22
+Saint Lucia, 2005, 9.0, 149184.0, 72.25, Decrease, -42.38
+Saint Lucia, 2006, 3.0, 150056.0, 18.74, Decrease, -53.51
+Saint Lucia, 2008, 2.0, 150979.0, 17.83, Decrease, -0.91
+Saint Lucia, 2009, 3.0, 156588.0, 19.18, Increase, 1.35
+Saint Lucia, 2010, 11.0, 158612.0, 69.52, Increase, 50.34
+Saint Lucia, 2011, 3.0, 161021.0, 23.93, Decrease, -45.59
+Saint Lucia, 2012, 10.0, 162315.0, 66.92, Increase, 42.99
+Saint Lucia, 2013, 11.0, 163261.0, 91.41, Increase, 24.49
+Saint Lucia, 2014, 13.0, 163974.0, 106.45, Increase, 15.04
+Saint Vincent and Grenadines, 1985, 12.0, 157122.0, 79.23, N/A, N/A
+Saint Vincent and Grenadines, 1986, 2.0, 90600.0, 32.79, Decrease, -46.44
+Saint Vincent and Grenadines, 1987, 0.0, 92006.0, 0.00, Decrease, -32.79
+Saint Vincent and Grenadines, 1990, 0.0, 90949.0, 0.00, Remain, 0.00
+Saint Vincent and Grenadines, 1995, 6.0, 91707.0, 80.79, Increase, 80.79
+Saint Vincent and Grenadines, 1996, 7.0, 95276.0, 85.48, Increase, 4.69
+Saint Vincent and Grenadines, 1997, 8.0, 95448.0, 85.13, Decrease, -0.35
+Saint Vincent and Grenadines, 1998, 2.0, 95673.0, 21.15, Decrease, -63.98
+Saint Vincent and Grenadines, 1999, 11.0, 95932.0, 202.93, Increase, 181.78
+Saint Vincent and Grenadines, 2000, 7.0, 96221.0, 75.46, Decrease, -127.47
+Saint Vincent and Grenadines, 2001, 3.0, 96468.0, 25.94, Decrease, -49.52
+Saint Vincent and Grenadines, 2002, 9.0, 96881.0, 169.89, Increase, 143.95
+Saint Vincent and Grenadines, 2003, 6.0, 97349.0, 193.70, Increase, 23.81
+Saint Vincent and Grenadines, 2004, 4.0, 97822.0, 50.91, Decrease, -142.79
+Saint Vincent and Grenadines, 2005, 8.0, 98245.0, 84.40, Increase, 33.49
+Saint Vincent and Grenadines, 2006, 5.0, 98731.0, 43.72, Decrease, -40.68
+Saint Vincent and Grenadines, 2007, 8.0, 99015.0, 141.36, Increase, 97.64
+Saint Vincent and Grenadines, 2008, 8.0, 99209.0, 73.55, Decrease, -67.81
+Saint Vincent and Grenadines, 2009, 4.0, 99358.0, 40.29, Decrease, -33.26
+Saint Vincent and Grenadines, 2010, 2.0, 99501.0, 21.22, Decrease, -19.07
+Saint Vincent and Grenadines, 2011, 5.0, 99367.0, 54.62, Increase, 33.40
+Saint Vincent and Grenadines, 2012, 7.0, 99475.0, 67.14, Increase, 12.52
+Saint Vincent and Grenadines, 2013, 7.0, 99712.0, 67.30, Increase, 0.16
+Saint Vincent and Grenadines, 2014, 0.0, 100007.0, 0.00, Decrease, -67.30
+Saint Vincent and Grenadines, 2015, 4.0, 100297.0, 102.02, Increase, 102.02
+San Marino, 1999, 1.0, 68841.0, 6.84, N/A, N/A
+San Marino, 2000, 2.0, 25057.0, 64.35, Increase, 57.51
+San Marino, 2005, 1.0, 25700.0, 47.26, Decrease, -17.09
+Serbia, 1998, 94.0, 1948349.0, 52.10, N/A, N/A
+Serbia, 1999, 1487.0, 7164235.0, 312.34, Increase, 260.24
+Serbia, 2000, 1560.0, 7146291.0, 342.71, Increase, 30.37
+Serbia, 2001, 1521.0, 7129750.0, 319.79, Decrease, -22.92
+Serbia, 2002, 1441.0, 7121460.0, 296.93, Decrease, -22.86
+Serbia, 2003, 1440.0, 7110575.0, 294.75, Decrease, -2.18
+Serbia, 2004, 1362.0, 7082857.0, 268.26, Decrease, -26.49
+Serbia, 2005, 1341.0, 7056866.0, 262.03, Decrease, -6.23
+Serbia, 2006, 1445.0, 7031248.0, 288.10, Increase, 26.07
+Serbia, 2007, 1447.0, 7009200.0, 287.02, Decrease, -1.08
+Serbia, 2008, 1336.0, 6986254.0, 255.18, Decrease, -31.84
+Serbia, 2009, 1281.0, 6965080.0, 241.12, Decrease, -14.06
+Serbia, 2010, 1361.0, 6943982.0, 255.93, Increase, 14.81
+Serbia, 2011, 1213.0, 6862362.0, 236.31, Decrease, -19.62
+Serbia, 2012, 1258.0, 6875581.0, 244.05, Increase, 7.74
+Serbia, 2013, 1232.0, 6840317.0, 232.05, Decrease, -12.00
+Serbia, 2014, 1201.0, 6811278.0, 218.89, Decrease, -13.16
+Serbia, 2015, 1135.0, 6781830.0, 217.39, Decrease, -1.50

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="CA4010" uuid="0c932328-ce40-4101-9d9b-a7eeba6dfbfb">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>clearyk6</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Apache Derby (Embedded) - master.csv" uuid="20269951-adec-4712-9d35-dcf84c1d3de9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="DERBY" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

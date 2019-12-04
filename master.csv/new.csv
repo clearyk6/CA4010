@@ -1,0 +1,85 @@
+Overwrite
+country, year, suicide_no, population, suicide/100K pop, suicide_rate_trend
+Albania, 1987, 73.0, 2709600.0, 31.85, N/A
+Albania, 1988, 63.0, 2764300.0, 32.46, Increase
+Albania, 1989, 68.0, 2803100.0, 33.40, Increase
+Albania, 1992, 47.0, 2822500.0, 18.00, Decrease
+Albania, 1993, 73.0, 2807300.0, 32.56, Increase
+Albania, 1994, 50.0, 2849300.0, 32.18, Decrease
+Albania, 1995, 88.0, 2903400.0, 40.55, Increase
+Albania, 1996, 89.0, 2940200.0, 43.62, Increase
+Albania, 1997, 170.0, 2977300.0, 77.43, Increase
+Albania, 1998, 154.0, 3012700.0, 66.52, Decrease
+Albania, 1999, 139.0, 3029700.0, 69.81, Increase
+Albania, 2000, 54.0, 2796300.0, 30.70, Decrease
+Albania, 2001, 119.0, 2799349.0, 50.62, Increase
+Albania, 2002, 133.0, 2818839.0, 62.51, Increase
+Albania, 2003, 124.0, 2843929.0, 58.60, Decrease
+Albania, 2004, 146.0, 2874991.0, 65.39, Increase
+Albania, 2005, 0.0, 2783320.0, 0.00, Decrease
+Albania, 2006, 0.0, 2780176.0, 0.00, Remain
+Albania, 2007, 124.0, 2770344.0, 65.85, Increase
+Albania, 2008, 160.0, 2757059.0, 71.05, Increase
+Albania, 2009, 0.0, 2745735.0, 0.00, Decrease
+Albania, 2010, 96.0, 2736025.0, 41.66, Increase
+Antigua and Barbuda, 1985, 0.0, 62574.0, 0.00, N/A
+Antigua and Barbuda, 1986, 0.0, 61270.0, 0.00, Remain
+Antigua and Barbuda, 1987, 0.0, 60261.0, 0.00, Remain
+Antigua and Barbuda, 1988, 0.0, 59564.0, 0.00, Remain
+Antigua and Barbuda, 1989, 0.0, 59238.0, 0.00, Remain
+Antigua and Barbuda, 1990, 1.0, 59334.0, 17.24, Increase
+Antigua and Barbuda, 1991, 0.0, 60394.0, 0.00, Decrease
+Antigua and Barbuda, 1992, 0.0, 61741.0, 0.00, Remain
+Antigua and Barbuda, 1993, 1.0, 63315.0, 15.00, Increase
+Antigua and Barbuda, 1994, 0.0, 65044.0, 0.00, Decrease
+Antigua and Barbuda, 1995, 0.0, 66846.0, 0.00, Remain
+Antigua and Barbuda, 1998, 0.0, 72225.0, 0.00, Remain
+Antigua and Barbuda, 1999, 0.0, 73832.0, 0.00, Remain
+Antigua and Barbuda, 2000, 2.0, 75326.0, 39.97, Increase
+Antigua and Barbuda, 2001, 2.0, 76497.0, 19.45, Decrease
+Antigua and Barbuda, 2002, 0.0, 77588.0, 0.00, Decrease
+Antigua and Barbuda, 2003, 1.0, 78658.0, 27.82, Increase
+Antigua and Barbuda, 2004, 2.0, 79722.0, 36.06, Increase
+Antigua and Barbuda, 2005, 0.0, 80809.0, 0.00, Decrease
+Antigua and Barbuda, 2006, 0.0, 81973.0, 0.00, Remain
+Antigua and Barbuda, 2007, 1.0, 83131.0, 7.98, Increase
+Antigua and Barbuda, 2008, 0.0, 84273.0, 0.00, Decrease
+Antigua and Barbuda, 2009, 0.0, 85405.0, 0.00, Remain
+Antigua and Barbuda, 2012, 0.0, 88703.0, 0.00, Remain
+Antigua and Barbuda, 2013, 0.0, 89779.0, 0.00, Remain
+Antigua and Barbuda, 2014, 0.0, 90837.0, 0.00, Remain
+Antigua and Barbuda, 2015, 1.0, 91889.0, 15.62, Increase
+Argentina, 1985, 1988.0, 2.70908E7, 134.47, N/A
+Argentina, 1986, 2284.0, 2.72444E7, 152.90, Increase
+Argentina, 1987, 2286.0, 2.75994E7, 144.98, Decrease
+Argentina, 1988, 2354.0, 2.8308E7, 146.24, Increase
+Argentina, 1989, 2247.0, 2.8702E7, 138.93, Decrease
+Argentina, 1990, 2140.0, 2.90911E7, 134.90, Decrease
+Argentina, 1991, 1951.0, 2.9623E7, 119.24, Decrease
+Argentina, 1992, 2184.0, 3.00454E7, 126.86, Increase
+Argentina, 1993, 2230.0, 3.04775E7, 134.77, Increase
+Argentina, 1994, 2241.0, 3.09112E7, 122.05, Decrease
+Argentina, 1995, 2204.0, 3.13454E7, 119.97, Decrease
+Argentina, 1996, 2229.0, 3.17807E7, 118.03, Decrease
+Argentina, 1997, 2184.0, 3.233378E7, 111.40, Decrease
+Argentina, 1998, 2347.0, 3.2757256E7, 116.93, Increase
+Argentina, 1999, 2423.0, 3.317486E7, 117.19, Increase
+Argentina, 2000, 2774.0, 3.3585532E7, 131.39, Increase
+Argentina, 2001, 3132.0, 3.4010944E7, 143.56, Increase
+Argentina, 2002, 3162.0, 3.4407508E7, 139.42, Decrease
+Argentina, 2003, 3289.0, 3.4785904E7, 146.29, Increase
+Argentina, 2004, 3121.0, 3.5162944E7, 131.06, Decrease
+Argentina, 2005, 3058.0, 3.5550616E7, 128.18, Decrease
+Argentina, 2006, 3108.0, 3.5918888E7, 128.22, Increase
+Argentina, 2007, 2946.0, 3.6315492E7, 118.35, Decrease
+Argentina, 2008, 3059.0, 3.673352E7, 118.11, Decrease
+Argentina, 2009, 2884.0, 3.7158008E7, 107.32, Decrease
+Argentina, 2010, 2943.0, 3.7578456E7, 111.24, Increase
+Argentina, 2011, 2912.0, 3.8015736E7, 105.87, Decrease
+Argentina, 2012, 3248.0, 3.8441776E7, 119.82, Increase
+Argentina, 2013, 2987.0, 3.8859128E7, 103.42, Decrease
+Argentina, 2014, 3231.0, 3.927656E7, 111.35, Increase
+Argentina, 2015, 3073.0, 3.9699628E7, 112.13, Increase
+Armenia, 1990, 93.0, 2983700.0, 41.12, N/A
+Armenia, 1991, 80.0, 3230800.0, 45.87, Increase
+Armenia, 1992, 83.0, 3308700.0, 40.86, Decrease
